@@ -1,0 +1,37 @@
+[
+  {
+    "nome":"Ana",
+    "idade":28,
+    "cidade":"Lisboa",
+    "salario":3200.0,
+    "compras":5
+  },
+  {
+    "nome":"Bruno",
+    "idade":34,
+    "cidade":"Porto",
+    "salario":4500.0,
+    "compras":3
+  },
+  {
+    "nome":"Carla",
+    "idade":22,
+    "cidade":"Coimbra",
+    "salario":2800.0,
+    "compras":8
+  },
+  {
+    "nome":"Daniel",
+    "idade":41,
+    "cidade":"Braga",
+    "salario":5200.0,
+    "compras":2
+  },
+  {
+    "nome":"Eduarda",
+    "idade":30,
+    "cidade":"Faro",
+    "salario":3900.0,
+    "compras":7
+  }
+]

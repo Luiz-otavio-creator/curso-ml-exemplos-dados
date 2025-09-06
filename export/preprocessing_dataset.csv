@@ -1,0 +1,1021 @@
+order_id,customer_id,order_date,product_category,product_subcategory,product_price,quantity,rating,review_text,is_returned
+ORD00001,CUST0043,2021-11-01,Clothing,Jeans,114.9,3,5,,False
+ORD00002,CUST0168,2021-02-25,Home,Furniture,95.85,3,5,,False
+ORD00003,CUST0117,2020-01-21,Electronics,Laptop,119.43,2,,"Great product, really enjoyed it.",False
+ORD00004,CUST0077,2021-07-13,Electronics,Mobile,145.69,3,1,,False
+ORD00005,CUST0109,2021-05-16,Books,Fiction,92.98,3,5,Not what I expected.,False
+ORD00006,CUST0060,2020-07-05,Electronics,Camera,92.98,2,4,Quality could be better.,False
+ORD00007,CUST0039,2021-03-15,Home,Bedding,147.38,4,4,Would buy again.,True
+ORD00008,CUST0079,2021-04-01,Books,Fiction,123.02,4,4,,False
+ORD00009,CUST0142,2021-03-10,Clothing,Shoes,85.92,3,5,Would buy again.,True
+ORD00010,CUST0025,2021-08-12,Home,Decor,116.28,4,3,Not what I expected.,False
+ORD00011,CUST0039,2021-09-06,Clothing,Shirt,86.1,4,5,"Poor packaging, arrived damaged.",False
+ORD00012,CUST0022,2021-11-03,Clothing,Dress,86.03,3,4,,False
+ORD00013,CUST0073,2020-10-26,Clothing,Dress,107.26,4,5,Excellent value for money!,False
+ORD00014,CUST0061,2021-01-30,Clothing,Dress,42.6,3,,Would buy again.,False
+ORD00015,CUST0045,2020-07-26,Books,Non-Fiction,48.25,1,2,Not what I expected.,True
+ORD00016,CUST0102,2020-11-02,Clothing,Dress,83.13,2,,Would buy again.,False
+ORD00017,CUST0142,2021-01-22,Home,Kitchen,69.62,2,1,"Poor packaging, arrived damaged.",False
+ORD00018,CUST0122,2021-07-05,Books,Comics,109.43,4,1,"Poor packaging, arrived damaged.",False
+ORD00019,CUST0037,2020-04-20,Electronics,Camera,72.76,4,1,Not what I expected.,False
+ORD00020,CUST0185,2020-05-15,Home,Decor,57.63,4,3,Quality could be better.,True
+ORD00021,CUST0174,2021-10-29,Home,Decor,143.97,2,4,Excellent value for money!,False
+ORD00022,CUST0107,2021-06-14,Home,Bedding,93.23,1,1,Not what I expected.,False
+ORD00023,CUST0092,2020-04-22,Home,Kitchen,102.03,1,1,Excellent value for money!,False
+ORD00024,CUST0032,2020-12-08,Home,Furniture,57.26,2,,Not what I expected.,False
+ORD00025,CUST0132,2021-01-10,Electronics,Camera,83.67,1,5,Excellent value for money!,False
+ORD00026,CUST0182,2020-07-26,Electronics,Tablet,103.33,2,5,,False
+ORD00027,CUST0061,2021-11-22,Books,Non-Fiction,65.47,1,5,Not what I expected.,False
+ORD00028,CUST0169,2020-01-01,Books,Non-Fiction,111.27,3,5,Excellent value for money!,False
+ORD00029,CUST0142,2020-01-11,Home,Furniture,81.98,3,1,,True
+ORD00030,CUST0009,2020-10-18,Clothing,Shirt,91.25,2,3,,False
+ORD00031,CUST0162,2021-06-01,Home,Decor,81.95,1,5,Not what I expected.,False
+ORD00032,CUST0029,2021-07-03,Books,Education,155.57,4,2,"Poor packaging, arrived damaged.",True
+ORD00033,CUST0134,2020-09-22,Home,Bedding,99.6,1,4,,False
+ORD00034,CUST0191,2020-01-18,Clothing,Shirt,68.27,3,1,Excellent value for money!,False
+ORD00035,CUST0196,2021-03-07,Clothing,Shoes,124.68,3,3,"Poor packaging, arrived damaged.",False
+ORD00036,CUST0095,2020-04-27,Electronics,Camera,63.37,1,4,"Poor packaging, arrived damaged.",False
+ORD00037,CUST0004,2021-12-19,Clothing,Dress,106.27,1,4,"Poor packaging, arrived damaged.",False
+ORD00038,CUST0083,2020-04-13,Books,Education,41.21,4,4,,False
+ORD00039,CUST0101,2021-12-19,Clothing,Shoes,60.15,4,4,"Poor packaging, arrived damaged.",False
+ORD00040,CUST0073,2021-11-10,Home,Kitchen,105.91,1,1,,False
+ORD00041,CUST0095,2020-01-24,Electronics,Tablet,1221.5,1,1,Would buy again.,True
+ORD00042,CUST0109,2020-06-11,Electronics,Mobile,105.14,1,5,,False
+ORD00043,CUST0133,2020-08-12,Books,Non-Fiction,96.53,1,4,Not what I expected.,False
+ORD00044,CUST0133,2021-01-08,Home,Decor,90.97,2,1,"Great product, really enjoyed it.",False
+ORD00045,CUST0145,2020-09-09,Clothing,Dress,55.64,1,5,Excellent value for money!,False
+ORD00046,CUST0099,2020-06-11,Home,Bedding,78.4,4,2,"Great product, really enjoyed it.",False
+ORD00047,CUST0114,2020-03-27,Books,Non-Fiction,86.18,3,3,,False
+ORD00048,CUST0166,2021-09-16,Clothing,Shoes,131.71,2,1,Excellent value for money!,False
+ORD00049,CUST0098,2021-11-21,Clothing,Jeans,110.31,1,5,"Great product, really enjoyed it.",False
+ORD00050,CUST0080,2021-08-06,Home,Decor,47.11,3,4,Excellent value for money!,False
+ORD00051,CUST0147,2021-05-07,Home,Kitchen,109.72,2,2,"Poor packaging, arrived damaged.",False
+ORD00052,CUST0165,2021-11-01,Clothing,Shoes,88.45,3,5,"Great product, really enjoyed it.",False
+ORD00053,CUST0037,2021-04-18,Clothing,Jeans,79.69,1,3,"Poor packaging, arrived damaged.",False
+ORD00054,CUST0079,2020-08-23,Home,Decor,118.35,1,2,,False
+ORD00055,CUST0067,2020-10-27,Electronics,Camera,130.93,4,2,Excellent value for money!,False
+ORD00056,CUST0094,2020-06-03,Books,Comics,127.94,1,2,,True
+ORD00057,CUST0106,2021-05-07,Home,Decor,74.82,1,1,"Great product, really enjoyed it.",False
+ORD00058,CUST0123,2020-06-01,Electronics,Mobile,90.72,2,4,"Great product, really enjoyed it.",False
+ORD00059,CUST0041,2020-10-09,Electronics,Tablet,109.94,4,5,Would buy again.,False
+ORD00060,CUST0071,2021-09-20,Clothing,Shirt,129.27,2,4,"Great product, really enjoyed it.",False
+ORD00061,CUST0188,2021-02-17,Books,Education,85.62,3,2,,True
+ORD00062,CUST0029,2020-12-12,Clothing,Jeans,94.43,1,1,Excellent value for money!,False
+ORD00063,CUST0166,2020-02-13,Electronics,Laptop,66.81,3,2,Quality could be better.,False
+ORD00064,CUST0174,2021-02-15,Home,Bedding,64.11,2,3,Not what I expected.,False
+ORD00065,CUST0160,2021-12-29,Clothing,Jeans,124.38,1,5,Excellent value for money!,False
+ORD00066,CUST0123,2020-01-26,Books,Non-Fiction,140.69,1,2,,False
+ORD00067,CUST0181,2021-08-31,Books,Comics,97.84,2,5,Would buy again.,False
+ORD00068,CUST0065,2021-06-23,Home,Kitchen,130.11,2,5,,False
+ORD00069,CUST0049,2020-07-13,Home,Decor,110.85,2,3,Not what I expected.,False
+ORD00070,CUST0195,2020-04-26,Electronics,Tablet,80.65,2,5,,False
+ORD00071,CUST0019,2021-02-05,Books,Education,110.84,2,4,Not what I expected.,False
+ORD00072,CUST0081,2021-11-11,Books,Comics,146.14,1,4,Would buy again.,False
+ORD00073,CUST0082,2021-06-23,Clothing,Dress,98.93,2,4,Excellent value for money!,False
+ORD00074,CUST0154,2020-11-20,Clothing,Shoes,146.94,1,3,Not what I expected.,False
+ORD00075,CUST0172,2020-02-17,Clothing,Dress,21.41,1,2,,False
+ORD00076,CUST0175,2020-05-21,Electronics,Camera,124.66,2,3,,False
+ORD00077,CUST0180,2021-06-02,Clothing,Jeans,102.61,2,2,,False
+ORD00078,CUST0173,2021-08-07,Electronics,Tablet,91.03,4,4,Would buy again.,False
+ORD00079,CUST0147,2020-12-15,Books,Fiction,102.75,1,1,Would buy again.,False
+ORD00080,CUST0168,2020-08-10,Electronics,Mobile,40.37,2,,Quality could be better.,False
+ORD00081,CUST0007,2020-02-07,Clothing,Jeans,934.0999999999999,2,5,,False
+ORD00082,CUST0039,2021-01-27,Clothing,Dress,110.71,2,3,,False
+ORD00083,CUST0084,2021-11-28,Books,Fiction,144.34,4,2,Not what I expected.,False
+ORD00084,CUST0119,2020-04-02,Home,Bedding,84.45,4,5,Quality could be better.,False
+ORD00085,CUST0063,2021-02-18,Home,Bedding,75.75,3,5,,False
+ORD00086,CUST0003,2020-04-17,Home,Bedding,84.95,1,5,"Poor packaging, arrived damaged.",False
+ORD00087,CUST0121,2020-05-04,Books,Education,127.46,3,2,,False
+ORD00088,CUST0177,2020-10-30,Books,Education,109.86,2,3,Not what I expected.,False
+ORD00089,CUST0074,2020-12-12,Books,Non-Fiction,84.11,4,1,Quality could be better.,False
+ORD00090,CUST0093,2021-01-27,Electronics,Camera,115.4,4,2,Not what I expected.,False
+ORD00091,CUST0117,2021-12-11,Electronics,Mobile,1029.1,3,5,Would buy again.,False
+ORD00092,CUST0163,2020-01-24,Books,Non-Fiction,129.06,4,5,"Poor packaging, arrived damaged.",False
+ORD00093,CUST0075,2020-01-13,Books,Comics,78.94,2,4,Quality could be better.,False
+ORD00094,CUST0132,2020-08-21,Electronics,Laptop,90.17,4,5,Excellent value for money!,False
+ORD00095,CUST0108,2021-09-05,Clothing,Dress,88.24,3,4,"Great product, really enjoyed it.",False
+ORD00096,CUST0046,2020-03-24,Clothing,Jeans,56.09,2,3,,False
+ORD00097,CUST0150,2020-03-13,Electronics,Mobile,108.88,3,3,"Great product, really enjoyed it.",False
+ORD00098,CUST0040,2021-07-06,Home,Kitchen,107.83,4,,,False
+ORD00099,CUST0190,2020-07-08,Books,Comics,100.15,3,1,"Great product, really enjoyed it.",False
+ORD00100,CUST0091,2020-09-01,Clothing,Jeans,92.96,3,,"Poor packaging, arrived damaged.",False
+ORD00101,CUST0166,2020-03-03,Home,Bedding,57.54,1,5,"Poor packaging, arrived damaged.",False
+ORD00102,CUST0086,2021-04-08,Books,Non-Fiction,87.38,4,1,Would buy again.,False
+ORD00103,CUST0060,2021-07-11,Books,Non-Fiction,89.72,4,4,Would buy again.,False
+ORD00104,CUST0180,2021-02-12,Clothing,Shirt,75.93,3,5,Not what I expected.,False
+ORD00105,CUST0017,2021-09-16,Clothing,Jeans,95.16,1,4,Excellent value for money!,False
+ORD00106,CUST0063,2021-09-28,Clothing,Dress,112.12,4,,Would buy again.,True
+ORD00107,CUST0127,2020-05-05,Books,Comics,156.59,2,,,False
+ORD00108,CUST0078,2020-09-04,Books,Fiction,105.24,3,3,Not what I expected.,False
+ORD00109,CUST0146,2021-05-21,Clothing,Shirt,107.73,4,3,"Poor packaging, arrived damaged.",False
+ORD00110,CUST0196,2020-05-12,Home,Furniture,97.77,2,,"Great product, really enjoyed it.",False
+ORD00111,CUST0004,2020-10-08,Home,Decor,42.44,4,4,Would buy again.,False
+ORD00112,CUST0174,2021-04-11,Home,Furniture,99.2,2,1,"Great product, really enjoyed it.",False
+ORD00113,CUST0016,2020-02-24,Clothing,Jeans,101.81,3,1,,False
+ORD00114,CUST0136,2020-01-10,Home,Kitchen,173.9,4,4,,True
+ORD00115,CUST0022,2020-09-29,Home,Furniture,94.23,4,,"Great product, really enjoyed it.",False
+ORD00116,CUST0135,2020-12-01,Books,Non-Fiction,109.05,1,5,"Great product, really enjoyed it.",False
+ORD00117,CUST0140,2020-08-17,Home,Bedding,98.96,3,4,,False
+ORD00118,CUST0025,2021-01-11,Clothing,Shirt,64.94,2,1,"Poor packaging, arrived damaged.",False
+ORD00119,CUST0157,2020-01-24,Books,Fiction,134.28,4,2,Would buy again.,False
+ORD00120,CUST0182,2021-04-02,Home,Kitchen,122.56,4,5,Quality could be better.,False
+ORD00121,CUST0148,2021-07-19,Electronics,Mobile,123.73,2,2,Would buy again.,False
+ORD00122,CUST0116,2020-09-28,Home,Kitchen,72.72,3,2,Not what I expected.,False
+ORD00123,CUST0049,2021-02-01,Electronics,Tablet,142.08,1,1,Excellent value for money!,False
+ORD00124,CUST0125,2020-07-11,Books,Fiction,57.94,1,4,,False
+ORD00125,CUST0088,2021-10-30,Electronics,Mobile,117.61,4,,"Great product, really enjoyed it.",False
+ORD00126,CUST0042,2020-09-21,Electronics,Tablet,165.71,2,2,"Poor packaging, arrived damaged.",False
+ORD00127,CUST0139,2020-09-24,Clothing,Shoes,70.28,4,3,,False
+ORD00128,CUST0076,2020-11-05,Books,Comics,83.01,2,4,Quality could be better.,True
+ORD00129,CUST0121,2020-08-09,Clothing,Dress,102.99,1,,Excellent value for money!,False
+ORD00130,CUST0110,2021-11-28,Books,Education,84.9,3,1,"Great product, really enjoyed it.",False
+ORD00131,CUST0065,2021-01-27,Books,Non-Fiction,53.48,2,3,"Great product, really enjoyed it.",False
+ORD00132,CUST0164,2021-08-14,Electronics,Tablet,102.06,1,3,"Poor packaging, arrived damaged.",False
+ORD00133,CUST0129,2021-06-24,Electronics,Laptop,68.13,4,5,Not what I expected.,False
+ORD00134,CUST0119,2021-02-17,Clothing,Dress,114.21,2,3,Excellent value for money!,False
+ORD00135,CUST0046,2021-02-25,Electronics,Tablet,72.42,3,1,Would buy again.,False
+ORD00136,CUST0087,2021-09-07,Clothing,Jeans,146.5,4,4,Would buy again.,False
+ORD00137,CUST0115,2020-03-22,Clothing,Jeans,76.5,4,5,Not what I expected.,False
+ORD00138,CUST0145,2021-10-12,Clothing,Shirt,90.34,1,1,"Poor packaging, arrived damaged.",False
+ORD00139,CUST0074,2020-06-13,Electronics,Mobile,124.41,2,5,Not what I expected.,False
+ORD00140,CUST0175,2021-09-07,Clothing,Jeans,63.07,4,2,Quality could be better.,False
+ORD00141,CUST0176,2021-06-23,Books,Fiction,106.82,3,4,Excellent value for money!,True
+ORD00142,CUST0049,2021-06-07,Clothing,Jeans,139.21,2,3,,False
+ORD00143,CUST0094,2021-06-03,Electronics,Laptop,51.78,3,5,"Poor packaging, arrived damaged.",False
+ORD00144,CUST0162,2021-02-05,Home,Kitchen,105.54,4,3,,False
+ORD00145,CUST0125,2020-03-31,Clothing,Dress,107.8,3,5,Would buy again.,False
+ORD00146,CUST0139,2020-01-29,Electronics,Camera,123.45,1,5,,False
+ORD00147,CUST0154,2020-11-25,Home,Kitchen,62.89,3,4,,False
+ORD00148,CUST0142,2021-07-29,Clothing,Shoes,60.39,2,5,Quality could be better.,False
+ORD00149,CUST0032,2021-08-25,Books,Comics,115.66,3,5,Quality could be better.,False
+ORD00150,CUST0170,2021-03-20,Electronics,Camera,108.91,3,1,,False
+ORD00151,CUST0075,2021-12-04,Electronics,Camera,107.51,1,3,,False
+ORD00152,CUST0139,2021-06-08,Books,Comics,110.39,3,,,False
+ORD00153,CUST0151,2021-08-19,Clothing,Shoes,79.6,3,1,,False
+ORD00154,CUST0199,2020-08-27,Home,Bedding,106.97,4,5,Would buy again.,False
+ORD00155,CUST0200,2021-06-16,Books,Fiction,108.79,4,,Not what I expected.,False
+ORD00156,CUST0125,2020-11-21,Clothing,Shirt,78.57,2,1,Not what I expected.,False
+ORD00157,CUST0093,2020-08-31,Books,Comics,155.97,4,4,,False
+ORD00158,CUST0159,2020-02-05,Home,Furniture,114.21,4,3,Excellent value for money!,False
+ORD00159,CUST0045,2020-08-02,Books,Education,64.26,4,4,Excellent value for money!,False
+ORD00160,CUST0034,2020-04-04,Electronics,Laptop,119.7,4,1,Not what I expected.,False
+ORD00161,CUST0022,2020-04-27,Home,Bedding,70.76,1,1,"Poor packaging, arrived damaged.",False
+ORD00162,CUST0178,2020-06-21,Home,Bedding,123.61,4,4,"Great product, really enjoyed it.",False
+ORD00163,CUST0037,2021-09-08,Clothing,Dress,134.76,1,5,"Poor packaging, arrived damaged.",False
+ORD00164,CUST0014,2020-10-15,Electronics,Mobile,75.38,1,5,Would buy again.,False
+ORD00165,CUST0186,2020-02-21,Clothing,Shoes,128.9,4,4,,True
+ORD00166,CUST0082,2020-02-19,Home,Kitchen,112.38,3,1,Quality could be better.,False
+ORD00167,CUST0026,2020-08-01,Books,Fiction,124.66,1,4,"Poor packaging, arrived damaged.",False
+ORD00168,CUST0164,2020-02-28,Home,Kitchen,156.9,3,2,Quality could be better.,False
+ORD00169,CUST0168,2021-08-18,Clothing,Shoes,92.64,3,,"Great product, really enjoyed it.",False
+ORD00170,CUST0131,2020-07-30,Electronics,Laptop,773.9,4,5,Would buy again.,False
+ORD00171,CUST0167,2021-03-06,Home,Decor,73.31,2,5,Excellent value for money!,False
+ORD00172,CUST0057,2021-06-09,Books,Fiction,75.53,4,,,False
+ORD00173,CUST0101,2020-05-01,Books,Comics,97.69,2,1,Would buy again.,False
+ORD00174,CUST0076,2021-11-26,Clothing,Dress,110.23,2,5,Not what I expected.,False
+ORD00175,CUST0162,2020-02-18,Home,Furniture,108.3,4,3,"Great product, really enjoyed it.",False
+ORD00176,CUST0109,2020-03-31,Electronics,Mobile,124.82,4,,Not what I expected.,False
+ORD00177,CUST0185,2021-02-15,Clothing,Dress,100.39,2,2,"Great product, really enjoyed it.",True
+ORD00178,CUST0109,2020-08-11,Books,Fiction,143.61,4,5,,False
+ORD00179,CUST0126,2020-11-18,Electronics,Camera,92.06,2,5,Quality could be better.,False
+ORD00180,CUST0002,2020-09-20,Clothing,Dress,181.61,3,1,Would buy again.,False
+ORD00181,CUST0033,2021-01-24,Electronics,Mobile,118.77,4,3,Would buy again.,False
+ORD00182,CUST0162,2020-07-26,Electronics,Tablet,742.9000000000001,3,5,Excellent value for money!,False
+ORD00183,CUST0062,2020-11-08,Books,Comics,67.87,1,3,Quality could be better.,True
+ORD00184,CUST0187,2021-06-24,Clothing,Shoes,114.47,3,2,Quality could be better.,False
+ORD00185,CUST0076,2021-12-24,Home,Bedding,93.3,3,2,"Poor packaging, arrived damaged.",False
+ORD00186,CUST0068,2020-09-02,Books,Education,121.42,2,1,"Poor packaging, arrived damaged.",False
+ORD00187,CUST0053,2021-05-18,Electronics,Mobile,114.2,3,5,"Great product, really enjoyed it.",False
+ORD00188,CUST0165,2020-01-21,Books,Fiction,97.82,4,4,,False
+ORD00189,CUST0019,2021-11-14,Books,Education,74.6,2,1,,False
+ORD00190,CUST0073,2021-12-28,Home,Decor,54.55,1,3,"Poor packaging, arrived damaged.",False
+ORD00191,CUST0181,2020-11-17,Clothing,Dress,86.6,4,3,"Poor packaging, arrived damaged.",False
+ORD00192,CUST0189,2020-12-29,Home,Furniture,125.69,1,2,,False
+ORD00193,CUST0175,2021-11-09,Home,Kitchen,106.42,3,3,Excellent value for money!,False
+ORD00194,CUST0160,2020-09-04,Home,Bedding,62.63,4,3,,False
+ORD00195,CUST0123,2020-11-30,Home,Kitchen,105.2,4,3,Not what I expected.,False
+ORD00196,CUST0054,2020-11-19,Electronics,Laptop,111.56,1,5,,False
+ORD00197,CUST0073,2020-10-12,Clothing,Shoes,73.48,4,2,Excellent value for money!,False
+ORD00198,CUST0012,2021-05-11,Books,Non-Fiction,104.61,4,4,"Poor packaging, arrived damaged.",False
+ORD00199,CUST0085,2020-01-06,Clothing,Shirt,1017.5,4,4,,False
+ORD00200,CUST0124,2021-01-05,Home,Bedding,65.71,3,4,"Great product, really enjoyed it.",False
+ORD00201,CUST0110,2020-06-24,Electronics,Camera,110.73,1,4,,False
+ORD00202,CUST0139,2021-04-09,Electronics,Mobile,116.82,4,4,"Poor packaging, arrived damaged.",False
+ORD00203,CUST0179,2021-03-04,Books,Fiction,132.49,2,5,Quality could be better.,False
+ORD00204,CUST0200,2021-04-20,Books,Education,131.61,2,4,Not what I expected.,False
+ORD00205,CUST0190,2020-08-10,Clothing,Jeans,58.67,2,4,Excellent value for money!,True
+ORD00206,CUST0044,2021-12-30,Clothing,Shirt,71.87,2,5,Would buy again.,False
+ORD00207,CUST0154,2021-07-03,Books,Comics,115.45,3,4,"Poor packaging, arrived damaged.",False
+ORD00208,CUST0134,2021-04-27,Home,Decor,115.41,4,2,Quality could be better.,False
+ORD00209,CUST0086,2020-09-08,Home,Bedding,115.45,1,2,"Great product, really enjoyed it.",False
+ORD00210,CUST0054,2021-10-29,Home,Decor,215.58,4,2,Excellent value for money!,False
+ORD00211,CUST0147,2021-01-24,Clothing,Jeans,117.13,3,5,,False
+ORD00212,CUST0069,2020-07-04,Books,Comics,134.07,2,5,Not what I expected.,False
+ORD00213,CUST0070,2020-11-06,Books,Non-Fiction,128.62,3,,Quality could be better.,False
+ORD00214,CUST0083,2021-06-17,Electronics,Mobile,119.54,4,4,Excellent value for money!,False
+ORD00215,CUST0072,2021-01-19,Clothing,Dress,90.54,1,3,"Poor packaging, arrived damaged.",False
+ORD00216,CUST0074,2021-03-30,Books,Fiction,122.77,3,1,,False
+ORD00217,CUST0020,2020-04-29,Electronics,Mobile,76.82,1,4,Quality could be better.,False
+ORD00218,CUST0183,2021-01-13,Books,Education,92.9,3,4,"Poor packaging, arrived damaged.",False
+ORD00219,CUST0110,2021-12-17,Books,Education,85.44,1,,,False
+ORD00220,CUST0018,2021-02-19,Books,Comics,102.46,1,2,"Poor packaging, arrived damaged.",True
+ORD00221,CUST0020,2021-08-28,Home,Bedding,169.44,2,4,"Great product, really enjoyed it.",True
+ORD00222,CUST0113,2021-12-03,Home,Furniture,439.79999999999995,1,4,Would buy again.,False
+ORD00223,CUST0191,2020-08-05,Home,Decor,120.59,2,4,Would buy again.,False
+ORD00224,CUST0117,2020-10-22,Electronics,Mobile,51.62,4,4,Not what I expected.,False
+ORD00225,CUST0069,2021-10-02,Books,Comics,858.4000000000001,4,5,,False
+ORD00226,CUST0092,2020-05-27,Clothing,Jeans,132.67,2,2,Excellent value for money!,False
+ORD00227,CUST0062,2021-03-16,Clothing,Shirt,101.93,2,5,"Poor packaging, arrived damaged.",False
+ORD00228,CUST0048,2020-12-03,Electronics,Camera,67.67,3,4,Would buy again.,False
+ORD00229,CUST0123,2020-04-19,Electronics,Camera,78.54,3,5,Not what I expected.,False
+ORD00230,CUST0143,2020-08-04,Books,Education,120.39,3,5,"Poor packaging, arrived damaged.",False
+ORD00231,CUST0040,2020-01-21,Home,Decor,78.09,4,3,Would buy again.,False
+ORD00232,CUST0124,2020-04-01,Books,Education,106.49,3,2,"Poor packaging, arrived damaged.",False
+ORD00233,CUST0043,2020-05-02,Electronics,Mobile,101.37,1,,Would buy again.,False
+ORD00234,CUST0108,2020-01-06,Clothing,Shirt,80.45,1,4,"Poor packaging, arrived damaged.",False
+ORD00235,CUST0185,2020-02-18,Books,Comics,164.32,3,,,False
+ORD00236,CUST0033,2021-03-06,Clothing,Shoes,119.02,1,2,Excellent value for money!,False
+ORD00237,CUST0200,2021-07-30,Books,Fiction,39.25,4,4,Not what I expected.,False
+ORD00238,CUST0028,2021-06-28,Electronics,Camera,105.59,1,5,Would buy again.,False
+ORD00239,CUST0083,2020-11-16,Clothing,Shirt,80.15,4,,Quality could be better.,False
+ORD00240,CUST0003,2020-02-22,Clothing,Shirt,125.57,2,3,,False
+ORD00241,CUST0145,2020-07-10,Home,Bedding,76.22,2,5,Quality could be better.,False
+ORD00242,CUST0022,2020-10-04,Clothing,Dress,96.56,2,4,,False
+ORD00243,CUST0032,2020-02-07,Clothing,Jeans,115.15,2,1,"Great product, really enjoyed it.",False
+ORD00244,CUST0147,2021-08-14,Electronics,Tablet,125.97,1,4,Not what I expected.,False
+ORD00245,CUST0071,2020-09-29,Books,Non-Fiction,639.9,3,4,Not what I expected.,False
+ORD00246,CUST0196,2021-03-06,Books,Non-Fiction,89.96,1,,"Great product, really enjoyed it.",False
+ORD00247,CUST0143,2021-09-30,Clothing,Jeans,85.75,4,3,"Poor packaging, arrived damaged.",False
+ORD00248,CUST0120,2021-05-28,Electronics,Tablet,80.4,1,2,Excellent value for money!,False
+ORD00249,CUST0113,2020-12-25,Books,Fiction,152.96,1,1,Excellent value for money!,False
+ORD00250,CUST0170,2020-09-19,Books,Comics,112.15,4,3,"Poor packaging, arrived damaged.",False
+ORD00251,CUST0184,2021-11-17,Clothing,Dress,62.17,2,3,Excellent value for money!,False
+ORD00252,CUST0165,2020-09-14,Books,Comics,127.54,2,5,"Poor packaging, arrived damaged.",False
+ORD00253,CUST0121,2020-01-07,Home,Furniture,163.66,2,3,"Poor packaging, arrived damaged.",False
+ORD00254,CUST0007,2020-04-02,Clothing,Dress,130.97,3,,Not what I expected.,False
+ORD00255,CUST0125,2021-06-06,Books,Non-Fiction,54.42,4,,Quality could be better.,False
+ORD00256,CUST0155,2021-06-09,Books,Comics,85.47,4,4,"Poor packaging, arrived damaged.",False
+ORD00257,CUST0060,2020-11-29,Books,Education,138.01,1,,Quality could be better.,True
+ORD00258,CUST0168,2020-09-19,Electronics,Camera,78.77,3,5,Not what I expected.,False
+ORD00259,CUST0176,2021-04-17,Books,Education,113.31,2,4,Excellent value for money!,True
+ORD00260,CUST0172,2021-08-15,Electronics,Tablet,123.24,3,2,"Poor packaging, arrived damaged.",False
+ORD00261,CUST0035,2021-09-26,Electronics,Tablet,72.19,4,3,Would buy again.,False
+ORD00262,CUST0200,2021-03-19,Home,Decor,98.21,4,4,Quality could be better.,False
+ORD00263,CUST0096,2021-03-11,Clothing,Jeans,2.76,1,5,Excellent value for money!,False
+ORD00264,CUST0081,2020-02-27,Electronics,Tablet,69.27,1,3,"Poor packaging, arrived damaged.",False
+ORD00265,CUST0146,2020-10-07,Clothing,Jeans,92.42,4,5,Excellent value for money!,False
+ORD00266,CUST0173,2021-04-05,Clothing,Jeans,62.57,2,4,Quality could be better.,False
+ORD00267,CUST0155,2021-04-05,Books,Comics,148.97,2,1,Not what I expected.,False
+ORD00268,CUST0191,2021-06-11,Home,Kitchen,57.1,3,,"Poor packaging, arrived damaged.",True
+ORD00269,CUST0071,2020-04-23,Home,Kitchen,86.8,4,4,Excellent value for money!,False
+ORD00270,CUST0124,2021-08-18,Home,Bedding,103.92,4,3,Not what I expected.,False
+ORD00271,CUST0184,2020-01-14,Books,Non-Fiction,143.24,2,4,Excellent value for money!,True
+ORD00272,CUST0198,2021-04-25,Home,Bedding,56.92,2,1,,True
+ORD00273,CUST0191,2021-10-08,Clothing,Jeans,134.89,4,4,,False
+ORD00274,CUST0188,2021-01-04,Books,Comics,100.31,1,3,"Poor packaging, arrived damaged.",True
+ORD00275,CUST0197,2020-06-25,Books,Fiction,70.55,4,3,"Poor packaging, arrived damaged.",False
+ORD00276,CUST0001,2021-11-16,Books,Education,113.86,4,,Not what I expected.,False
+ORD00277,CUST0152,2020-08-05,Home,Bedding,105.97,2,4,"Poor packaging, arrived damaged.",False
+ORD00278,CUST0065,2020-09-24,Books,Non-Fiction,81.99,2,2,,False
+ORD00279,CUST0010,2020-03-21,Electronics,Laptop,102.09,1,3,,False
+ORD00280,CUST0124,2020-07-09,Home,Furniture,88.44,1,,Would buy again.,False
+ORD00281,CUST0109,2020-05-20,Books,Comics,103.41,3,2,Excellent value for money!,False
+ORD00282,CUST0011,2021-03-03,Books,Fiction,119.86,4,2,"Great product, really enjoyed it.",False
+ORD00283,CUST0082,2021-08-29,Home,Kitchen,147.58,2,1,,False
+ORD00284,CUST0087,2020-06-14,Books,Comics,62.87,1,1,,False
+ORD00285,CUST0043,2021-06-28,Clothing,Shoes,163.99,3,5,,False
+ORD00286,CUST0173,2021-02-26,Books,Comics,41.44,3,5,Would buy again.,False
+ORD00287,CUST0048,2021-04-05,Books,Fiction,95.45,2,3,Would buy again.,False
+ORD00288,CUST0134,2020-04-25,Clothing,Shoes,117.65,2,4,Quality could be better.,False
+ORD00289,CUST0095,2021-06-11,Clothing,Shirt,108.43,3,3,Excellent value for money!,False
+ORD00290,CUST0002,2020-06-06,Books,Fiction,81.32,1,,"Poor packaging, arrived damaged.",True
+ORD00291,CUST0144,2020-01-10,Books,Education,93.76,3,,Would buy again.,False
+ORD00292,CUST0175,2021-03-10,Clothing,Shoes,85.21,4,3,,False
+ORD00293,CUST0080,2021-02-26,Home,Decor,82.32,4,5,Excellent value for money!,False
+ORD00294,CUST0188,2021-11-17,Books,Non-Fiction,125.49,2,5,,False
+ORD00295,CUST0097,2021-01-08,Electronics,Tablet,110.71,1,3,Would buy again.,True
+ORD00296,CUST0123,2020-07-18,Electronics,Camera,79.21,1,2,Would buy again.,False
+ORD00297,CUST0085,2020-02-11,Home,Furniture,126.99,4,3,Excellent value for money!,False
+ORD00298,CUST0073,2021-02-04,Electronics,Mobile,109.22,3,5,Excellent value for money!,False
+ORD00299,CUST0010,2020-12-27,Clothing,Shoes,124.39,2,,,False
+ORD00300,CUST0161,2021-11-23,Electronics,Mobile,118.89,3,5,Excellent value for money!,False
+ORD00301,CUST0194,2020-11-19,Home,Bedding,75.13,3,5,,False
+ORD00302,CUST0160,2021-06-02,Electronics,Mobile,83.19,3,4,Excellent value for money!,False
+ORD00303,CUST0179,2020-06-11,Electronics,Mobile,122.42,1,5,Excellent value for money!,False
+ORD00304,CUST0090,2020-06-05,Home,Bedding,118.31,4,5,Not what I expected.,True
+ORD00305,CUST0133,2021-09-14,Clothing,Shoes,99.37,1,3,"Great product, really enjoyed it.",False
+ORD00306,CUST0082,2021-04-24,Books,Comics,103.52,4,4,"Poor packaging, arrived damaged.",False
+ORD00307,CUST0032,2021-07-03,Clothing,Shirt,138.33,2,5,Excellent value for money!,False
+ORD00308,CUST0174,2021-03-23,Electronics,Camera,82.25,2,1,Quality could be better.,True
+ORD00309,CUST0050,2021-06-28,Books,Fiction,116.41,3,5,"Poor packaging, arrived damaged.",False
+ORD00310,CUST0097,2020-03-26,Electronics,Tablet,93.93,4,2,,False
+ORD00311,CUST0142,2020-10-25,Electronics,Tablet,93.47,4,4,Excellent value for money!,False
+ORD00312,CUST0099,2021-05-26,Home,Kitchen,132.96,4,5,Not what I expected.,False
+ORD00313,CUST0011,2020-08-25,Clothing,Shirt,124.76,3,2,Quality could be better.,False
+ORD00314,CUST0122,2020-07-08,Books,Education,124.41,3,2,"Poor packaging, arrived damaged.",False
+ORD00315,CUST0125,2020-05-16,Home,Decor,139.16,2,3,,False
+ORD00316,CUST0128,2020-03-01,Home,Bedding,100.63,1,5,Not what I expected.,False
+ORD00317,CUST0076,2021-08-24,Home,Decor,120.46,4,1,"Poor packaging, arrived damaged.",False
+ORD00318,CUST0084,2021-01-07,Electronics,Laptop,90.69,4,,,False
+ORD00319,CUST0133,2020-06-28,Home,Decor,109.72,1,2,Quality could be better.,False
+ORD00320,CUST0191,2021-08-05,Books,Comics,96.1,4,,Excellent value for money!,False
+ORD00321,CUST0170,2021-05-11,Clothing,Dress,102.91,3,,,False
+ORD00322,CUST0071,2020-08-30,Electronics,Camera,117.85,3,3,,True
+ORD00323,CUST0109,2020-06-13,Clothing,Jeans,75.45,4,4,Excellent value for money!,False
+ORD00324,CUST0107,2020-03-16,Books,Education,162.77,3,3,Not what I expected.,True
+ORD00325,CUST0137,2021-01-19,Electronics,Mobile,69.82,3,4,,False
+ORD00326,CUST0032,2021-08-15,Electronics,Laptop,63.57,4,1,,False
+ORD00327,CUST0180,2020-01-01,Books,Non-Fiction,134.74,2,1,Quality could be better.,False
+ORD00328,CUST0020,2020-06-18,Home,Kitchen,123.75,1,1,Excellent value for money!,False
+ORD00329,CUST0055,2020-12-09,Clothing,Shirt,118.72,3,3,Not what I expected.,False
+ORD00330,CUST0051,2021-05-28,Books,Fiction,118.85,2,2,Excellent value for money!,False
+ORD00331,CUST0006,2021-12-30,Home,Kitchen,99.63,3,4,,False
+ORD00332,CUST0187,2020-10-09,Books,Comics,73.08,3,,"Poor packaging, arrived damaged.",False
+ORD00333,CUST0021,2020-05-11,Clothing,Shirt,1022.6999999999999,1,3,"Great product, really enjoyed it.",False
+ORD00334,CUST0168,2020-03-05,Clothing,Jeans,79.69,3,4,Not what I expected.,False
+ORD00335,CUST0177,2021-09-28,Books,Education,129.25,1,3,Quality could be better.,False
+ORD00336,CUST0128,2020-09-11,Clothing,Shoes,95.59,1,5,"Great product, really enjoyed it.",False
+ORD00337,CUST0050,2021-04-02,Home,Kitchen,75.24,1,,,False
+ORD00338,CUST0018,2021-12-12,Home,Kitchen,90.36,2,5,Not what I expected.,False
+ORD00339,CUST0174,2020-10-19,Electronics,Laptop,112.39,4,,"Great product, really enjoyed it.",True
+ORD00340,CUST0099,2020-12-30,Electronics,Tablet,83.09,2,1,,False
+ORD00341,CUST0077,2020-03-12,Electronics,Camera,75.33,4,5,"Great product, really enjoyed it.",False
+ORD00342,CUST0063,2020-04-03,Clothing,Dress,107.31,4,5,Would buy again.,False
+ORD00343,CUST0012,2021-03-31,Books,Non-Fiction,107.35,1,2,,False
+ORD00344,CUST0071,2020-09-24,Electronics,Mobile,84.79,3,,Not what I expected.,False
+ORD00345,CUST0097,2020-07-19,Books,Education,85.87,1,1,,True
+ORD00346,CUST0196,2021-05-30,Home,Decor,106.96,3,4,,False
+ORD00347,CUST0181,2020-10-13,Books,Education,56.56,4,2,Quality could be better.,False
+ORD00348,CUST0114,2021-07-08,Clothing,Jeans,57.78,1,3,Not what I expected.,False
+ORD00349,CUST0091,2020-10-30,Home,Kitchen,78.45,3,5,Not what I expected.,False
+ORD00350,CUST0140,2021-05-23,Home,Furniture,93.6,2,4,"Great product, really enjoyed it.",False
+ORD00351,CUST0139,2020-07-23,Home,Bedding,109.33,3,3,"Poor packaging, arrived damaged.",False
+ORD00352,CUST0166,2021-08-29,Clothing,Jeans,144.26,1,3,,False
+ORD00353,CUST0098,2021-08-30,Clothing,Jeans,125.73,2,5,"Great product, really enjoyed it.",False
+ORD00354,CUST0165,2020-03-07,Home,Kitchen,95.2,3,1,Excellent value for money!,False
+ORD00355,CUST0029,2021-03-15,Clothing,Dress,99.43,3,3,Not what I expected.,False
+ORD00356,CUST0168,2020-10-05,Home,Decor,69.92,3,,,False
+ORD00357,CUST0051,2020-01-29,Books,Non-Fiction,99.44,3,5,,False
+ORD00358,CUST0084,2020-08-31,Home,Decor,91.34,3,3,"Great product, really enjoyed it.",True
+ORD00359,CUST0108,2021-03-26,Home,Decor,109.68,2,5,,False
+ORD00360,CUST0020,2020-11-06,Electronics,Laptop,75.18,4,5,"Poor packaging, arrived damaged.",False
+ORD00361,CUST0125,2021-01-20,Electronics,Camera,115.58,2,5,Would buy again.,False
+ORD00362,CUST0121,2021-10-10,Books,Education,145.98,2,4,Excellent value for money!,False
+ORD00363,CUST0059,2020-12-10,Books,Education,96.74,2,2,Would buy again.,False
+ORD00364,CUST0067,2020-01-24,Electronics,Laptop,112.05,4,2,"Great product, really enjoyed it.",True
+ORD00365,CUST0176,2020-12-01,Electronics,Mobile,120.7,1,2,Would buy again.,False
+ORD00366,CUST0111,2020-01-15,Books,Fiction,87.96,4,4,Not what I expected.,False
+ORD00367,CUST0039,2020-08-31,Electronics,Camera,106.72,2,1,"Poor packaging, arrived damaged.",False
+ORD00368,CUST0195,2021-11-01,Clothing,Dress,100.38,3,4,Quality could be better.,False
+ORD00369,CUST0086,2020-03-28,Home,Furniture,102.93,3,3,,False
+ORD00370,CUST0067,2020-05-09,Clothing,Dress,76.81,2,2,,True
+ORD00371,CUST0122,2021-06-11,Electronics,Laptop,100.74,3,5,"Poor packaging, arrived damaged.",False
+ORD00372,CUST0183,2020-02-17,Home,Bedding,114.94,2,3,Quality could be better.,False
+ORD00373,CUST0104,2021-05-24,Electronics,Mobile,143.53,3,1,Quality could be better.,False
+ORD00374,CUST0128,2020-05-21,Electronics,Camera,128.78,4,5,"Great product, really enjoyed it.",False
+ORD00375,CUST0063,2021-08-31,Electronics,Laptop,164.6,1,1,Not what I expected.,True
+ORD00376,CUST0148,2020-07-25,Clothing,Shirt,76.98,1,5,"Poor packaging, arrived damaged.",False
+ORD00377,CUST0046,2021-12-20,Electronics,Mobile,126.17,4,5,Quality could be better.,True
+ORD00378,CUST0160,2021-11-24,Home,Bedding,105.5,4,3,Quality could be better.,False
+ORD00379,CUST0018,2020-09-01,Electronics,Laptop,165.69,2,5,"Poor packaging, arrived damaged.",False
+ORD00380,CUST0090,2020-06-06,Electronics,Mobile,75.75,2,4,,False
+ORD00381,CUST0058,2020-07-06,Clothing,Dress,74.81,2,3,Quality could be better.,False
+ORD00382,CUST0022,2021-11-13,Clothing,Jeans,82.02,3,1,Not what I expected.,False
+ORD00383,CUST0115,2020-03-16,Books,Education,36.28,2,2,,True
+ORD00384,CUST0054,2020-07-13,Clothing,Shoes,84.23,4,,Would buy again.,False
+ORD00385,CUST0035,2020-05-31,Electronics,Laptop,77.23,1,3,Not what I expected.,False
+ORD00386,CUST0060,2021-05-06,Books,Comics,104.51,3,4,,False
+ORD00387,CUST0162,2021-06-09,Clothing,Shoes,110.25,2,4,Would buy again.,False
+ORD00388,CUST0139,2021-10-05,Home,Kitchen,156.29,3,4,Not what I expected.,False
+ORD00389,CUST0093,2021-10-08,Books,Fiction,128.51,3,1,Excellent value for money!,False
+ORD00390,CUST0028,2021-09-27,Books,Comics,82.69,2,3,,False
+ORD00391,CUST0198,2020-09-23,Clothing,Jeans,73.05,3,5,,False
+ORD00392,CUST0160,2021-08-02,Clothing,Shirt,114.76,1,2,Quality could be better.,False
+ORD00393,CUST0191,2020-02-27,Clothing,Dress,60.39,4,2,Not what I expected.,False
+ORD00394,CUST0158,2020-03-24,Electronics,Tablet,154.94,4,1,"Poor packaging, arrived damaged.",False
+ORD00395,CUST0157,2021-07-19,Books,Education,135.38,1,3,,False
+ORD00396,CUST0018,2021-04-02,Books,Education,85.92,3,5,Not what I expected.,False
+ORD00397,CUST0076,2020-06-20,Electronics,Tablet,48.61,2,1,Excellent value for money!,False
+ORD00398,CUST0072,2020-01-11,Electronics,Laptop,140.62,3,2,Not what I expected.,False
+ORD00399,CUST0143,2020-07-19,Books,Fiction,96.56,1,3,,False
+ORD00400,CUST0016,2020-09-03,Clothing,Jeans,137.13,3,5,Excellent value for money!,False
+ORD00401,CUST0103,2021-06-26,Electronics,Tablet,52.17,4,4,Would buy again.,False
+ORD00402,CUST0171,2020-05-13,Home,Decor,82.02,3,3,Not what I expected.,False
+ORD00403,CUST0187,2020-09-18,Books,Non-Fiction,100.16,1,5,Not what I expected.,False
+ORD00404,CUST0161,2020-11-23,Books,Fiction,101.41,4,4,Excellent value for money!,False
+ORD00405,CUST0193,2020-01-22,Home,Kitchen,86.5,3,5,Quality could be better.,False
+ORD00406,CUST0133,2020-09-19,Home,Decor,118.69,3,5,"Great product, really enjoyed it.",False
+ORD00407,CUST0198,2020-11-13,Books,Education,67.97,4,2,,False
+ORD00408,CUST0132,2021-07-22,Home,Kitchen,95.73,2,2,"Poor packaging, arrived damaged.",False
+ORD00409,CUST0050,2020-08-31,Home,Bedding,103.61,4,1,Would buy again.,False
+ORD00410,CUST0194,2021-03-28,Books,Fiction,115.43,2,3,"Poor packaging, arrived damaged.",False
+ORD00411,CUST0101,2020-02-07,Books,Education,121.35,1,,Would buy again.,False
+ORD00412,CUST0172,2020-10-11,Clothing,Jeans,66.26,1,3,"Great product, really enjoyed it.",False
+ORD00413,CUST0013,2021-07-26,Books,Non-Fiction,53.98,4,2,,False
+ORD00414,CUST0026,2021-04-16,Clothing,Dress,138.33,4,5,"Great product, really enjoyed it.",False
+ORD00415,CUST0194,2020-03-24,Home,Kitchen,109.97,1,4,Quality could be better.,False
+ORD00416,CUST0047,2020-04-03,Home,Furniture,77.55,2,1,"Poor packaging, arrived damaged.",False
+ORD00417,CUST0087,2021-05-28,Electronics,Tablet,146.53,1,3,Not what I expected.,True
+ORD00418,CUST0016,2020-11-28,Electronics,Camera,103.47,4,3,Excellent value for money!,False
+ORD00419,CUST0087,2020-04-14,Books,Fiction,135.38,1,5,Excellent value for money!,False
+ORD00420,CUST0005,2020-11-29,Home,Bedding,102.03,4,1,Quality could be better.,False
+ORD00421,CUST0073,2020-09-23,Electronics,Tablet,161.82,4,2,Would buy again.,False
+ORD00422,CUST0150,2021-02-07,Home,Bedding,152.66,1,4,Excellent value for money!,False
+ORD00423,CUST0048,2020-09-13,Electronics,Laptop,92.53,2,2,Excellent value for money!,False
+ORD00424,CUST0013,2021-06-01,Home,Bedding,129.15,3,4,Would buy again.,False
+ORD00425,CUST0008,2021-10-03,Clothing,Jeans,119.36,1,3,Excellent value for money!,False
+ORD00426,CUST0194,2020-06-03,Home,Decor,141.06,3,3,,False
+ORD00427,CUST0058,2020-01-05,Electronics,Mobile,71.05,1,,Quality could be better.,False
+ORD00428,CUST0163,2021-11-17,Electronics,Mobile,120.58,3,4,Excellent value for money!,False
+ORD00429,CUST0174,2020-05-11,Clothing,Shoes,131.75,2,1,,False
+ORD00430,CUST0080,2020-12-02,Clothing,Shirt,47.24,2,4,"Poor packaging, arrived damaged.",False
+ORD00431,CUST0061,2021-04-25,Home,Bedding,64.5,1,5,Excellent value for money!,True
+ORD00432,CUST0091,2021-07-03,Clothing,Jeans,38.82,4,5,Would buy again.,False
+ORD00433,CUST0043,2021-03-23,Books,Comics,91.92,3,2,Excellent value for money!,False
+ORD00434,CUST0044,2020-11-10,Home,Decor,121.53,4,,,True
+ORD00435,CUST0105,2021-02-03,Home,Furniture,145.07,4,3,Excellent value for money!,False
+ORD00436,CUST0160,2021-12-03,Electronics,Mobile,102.22,4,2,Would buy again.,False
+ORD00437,CUST0195,2021-12-30,Books,Fiction,148.86,2,2,Would buy again.,False
+ORD00438,CUST0125,2021-09-20,Books,Comics,58.6,1,1,Not what I expected.,False
+ORD00439,CUST0192,2020-11-26,Electronics,Camera,48.9,1,5,,False
+ORD00440,CUST0007,2021-02-11,Clothing,Dress,98.33,2,1,Would buy again.,False
+ORD00441,CUST0171,2021-12-13,Clothing,Jeans,111.52,2,1,Excellent value for money!,False
+ORD00442,CUST0008,2021-02-22,Electronics,Mobile,99.02,1,5,Quality could be better.,True
+ORD00443,CUST0068,2021-12-14,Home,Furniture,37.98,4,3,Not what I expected.,False
+ORD00444,CUST0149,2021-08-03,Clothing,Shoes,97.33,3,1,Not what I expected.,False
+ORD00445,CUST0070,2020-07-27,Books,Comics,60.87,3,1,,False
+ORD00446,CUST0168,2020-06-12,Clothing,Dress,120.09,3,1,,True
+ORD00447,CUST0144,2020-02-27,Clothing,Shoes,111.0,4,2,,False
+ORD00448,CUST0108,2021-05-08,Clothing,Shirt,71.8,1,4,"Poor packaging, arrived damaged.",False
+ORD00449,CUST0132,2021-01-17,Clothing,Shirt,84.58,2,2,Would buy again.,False
+ORD00450,CUST0007,2020-10-07,Books,Non-Fiction,68.22,1,1,"Poor packaging, arrived damaged.",False
+ORD00451,CUST0013,2021-05-12,Electronics,Tablet,98.12,4,5,"Great product, really enjoyed it.",False
+ORD00452,CUST0138,2021-06-03,Clothing,Jeans,128.65,2,4,Quality could be better.,False
+ORD00453,CUST0176,2020-12-27,Home,Kitchen,70.43,4,3,,False
+ORD00454,CUST0157,2020-04-30,Home,Bedding,115.12,3,4,Would buy again.,False
+ORD00455,CUST0065,2020-05-22,Books,Fiction,84.09,3,3,"Poor packaging, arrived damaged.",False
+ORD00456,CUST0028,2021-03-11,Electronics,Mobile,76.21,4,3,"Great product, really enjoyed it.",True
+ORD00457,CUST0124,2020-04-29,Home,Bedding,96.79,2,4,Quality could be better.,True
+ORD00458,CUST0050,2020-07-17,Electronics,Laptop,68.94,2,3,Quality could be better.,False
+ORD00459,CUST0040,2021-08-15,Home,Bedding,83.39,1,,"Poor packaging, arrived damaged.",False
+ORD00460,CUST0192,2021-11-23,Electronics,Laptop,64.06,3,1,Excellent value for money!,False
+ORD00461,CUST0132,2020-12-10,Electronics,Laptop,158.94,1,5,,False
+ORD00462,CUST0016,2021-03-18,Books,Fiction,101.06,1,1,Not what I expected.,False
+ORD00463,CUST0059,2021-08-29,Books,Education,79.01,4,5,Would buy again.,False
+ORD00464,CUST0020,2021-07-11,Clothing,Dress,106.42,4,4,Quality could be better.,True
+ORD00465,CUST0056,2020-07-21,Clothing,Jeans,96.63,1,5,"Poor packaging, arrived damaged.",False
+ORD00466,CUST0118,2021-04-26,Books,Fiction,93.37,3,1,Quality could be better.,False
+ORD00467,CUST0123,2021-12-04,Electronics,Tablet,1184.3000000000002,4,4,Excellent value for money!,False
+ORD00468,CUST0049,2021-03-26,Home,Kitchen,122.73,1,4,Quality could be better.,False
+ORD00469,CUST0134,2020-05-11,Clothing,Shirt,84.08,1,5,"Poor packaging, arrived damaged.",False
+ORD00470,CUST0034,2020-04-07,Books,Education,82.73,1,4,,True
+ORD00471,CUST0125,2021-12-30,Electronics,Laptop,91.75,1,4,Would buy again.,True
+ORD00472,CUST0153,2020-08-26,Clothing,Dress,30.94,1,3,"Poor packaging, arrived damaged.",False
+ORD00473,CUST0028,2021-11-22,Books,Non-Fiction,54.54,1,3,Would buy again.,True
+ORD00474,CUST0043,2021-03-13,Clothing,Dress,141.01,4,3,Excellent value for money!,False
+ORD00475,CUST0043,2021-10-17,Books,Comics,149.35,3,1,,False
+ORD00476,CUST0147,2021-02-04,Electronics,Mobile,92.53,1,,,False
+ORD00477,CUST0096,2021-01-19,Home,Furniture,117.3,2,5,"Poor packaging, arrived damaged.",False
+ORD00478,CUST0186,2021-02-14,Electronics,Camera,109.34,4,,"Great product, really enjoyed it.",False
+ORD00479,CUST0125,2021-09-12,Electronics,Mobile,1923.7,4,2,"Poor packaging, arrived damaged.",False
+ORD00480,CUST0050,2020-09-06,Home,Kitchen,133.59,1,5,"Poor packaging, arrived damaged.",False
+ORD00481,CUST0152,2021-07-27,Home,Furniture,96.16,4,5,Quality could be better.,False
+ORD00482,CUST0188,2020-07-05,Clothing,Jeans,71.33,1,4,Excellent value for money!,False
+ORD00483,CUST0140,2020-10-17,Clothing,Shoes,51.81,3,4,"Poor packaging, arrived damaged.",False
+ORD00484,CUST0114,2020-02-27,Books,Education,106.1,3,3,Excellent value for money!,False
+ORD00485,CUST0078,2020-12-13,Electronics,Laptop,77.31,4,5,"Great product, really enjoyed it.",False
+ORD00486,CUST0009,2020-05-23,Electronics,Mobile,57.33,4,4,,False
+ORD00487,CUST0106,2021-10-31,Books,Comics,80.6,2,1,Excellent value for money!,False
+ORD00488,CUST0127,2020-08-06,Books,Non-Fiction,67.55,4,3,"Great product, really enjoyed it.",False
+ORD00489,CUST0106,2021-10-09,Clothing,Shirt,150.61,2,,,False
+ORD00490,CUST0132,2020-06-09,Home,Decor,126.45,3,5,Not what I expected.,False
+ORD00491,CUST0040,2021-02-26,Books,Non-Fiction,99.76,3,,Excellent value for money!,False
+ORD00492,CUST0046,2020-08-19,Home,Kitchen,144.4,1,4,"Poor packaging, arrived damaged.",False
+ORD00493,CUST0040,2020-07-14,Electronics,Tablet,102.32,3,2,,False
+ORD00494,CUST0092,2020-08-09,Home,Kitchen,74.16,2,2,Not what I expected.,False
+ORD00495,CUST0153,2020-02-11,Home,Decor,145.69,4,2,"Poor packaging, arrived damaged.",False
+ORD00496,CUST0080,2020-10-18,Clothing,Shoes,116.17,1,1,Not what I expected.,False
+ORD00497,CUST0125,2021-03-18,Home,Kitchen,68.88,2,3,Quality could be better.,False
+ORD00498,CUST0035,2021-08-15,Home,Furniture,94.29,4,2,,False
+ORD00499,CUST0028,2020-02-16,Home,Bedding,73.73,1,3,Quality could be better.,False
+ORD00500,CUST0186,2021-05-29,Electronics,Camera,58.52,3,,"Great product, really enjoyed it.",False
+ORD00501,CUST0185,2020-07-12,Clothing,Shirt,127.79,2,3,"Great product, really enjoyed it.",False
+ORD00502,CUST0025,2021-07-06,Home,Decor,157.28,4,5,Would buy again.,False
+ORD00503,CUST0156,2021-03-17,Clothing,Shirt,58.04,1,4,,False
+ORD00504,CUST0028,2021-06-15,Clothing,Shirt,116.89,1,2,"Poor packaging, arrived damaged.",False
+ORD00505,CUST0110,2020-03-09,Electronics,Camera,80.48,3,3,"Great product, really enjoyed it.",False
+ORD00506,CUST0025,2020-05-19,Home,Kitchen,853.9,4,1,"Poor packaging, arrived damaged.",False
+ORD00507,CUST0031,2020-01-31,Home,Kitchen,82.23,3,3,Not what I expected.,False
+ORD00508,CUST0135,2021-11-06,Clothing,Jeans,74.08,3,4,Excellent value for money!,False
+ORD00509,CUST0107,2021-11-29,Electronics,Tablet,101.46,4,1,Would buy again.,False
+ORD00510,CUST0057,2021-12-17,Clothing,Shirt,75.07,4,2,"Poor packaging, arrived damaged.",False
+ORD00511,CUST0073,2021-11-12,Electronics,Tablet,108.11,4,3,"Great product, really enjoyed it.",False
+ORD00512,CUST0086,2020-06-15,Electronics,Camera,98.49,2,,Not what I expected.,True
+ORD00513,CUST0198,2020-04-20,Books,Non-Fiction,92.83,4,5,,False
+ORD00514,CUST0040,2020-07-16,Home,Decor,72.77,1,5,Quality could be better.,False
+ORD00515,CUST0039,2020-03-03,Electronics,Laptop,82.7,3,1,Excellent value for money!,True
+ORD00516,CUST0008,2021-04-22,Clothing,Dress,122.66,2,5,Excellent value for money!,True
+ORD00517,CUST0076,2021-08-24,Electronics,Camera,115.03,4,5,Would buy again.,False
+ORD00518,CUST0029,2020-02-28,Electronics,Laptop,70.67,2,4,"Poor packaging, arrived damaged.",True
+ORD00519,CUST0018,2021-05-08,Home,Decor,102.98,4,,Quality could be better.,False
+ORD00520,CUST0163,2021-07-11,Home,Decor,122.54,2,3,Not what I expected.,False
+ORD00521,CUST0063,2021-01-08,Books,Comics,49.92,3,,"Great product, really enjoyed it.",False
+ORD00522,CUST0134,2020-03-28,Electronics,Camera,116.3,3,,Not what I expected.,False
+ORD00523,CUST0107,2020-12-03,Electronics,Laptop,80.12,1,1,"Great product, really enjoyed it.",False
+ORD00524,CUST0098,2021-02-27,Books,Fiction,117.12,1,3,"Great product, really enjoyed it.",False
+ORD00525,CUST0132,2021-08-07,Clothing,Shoes,77.1,4,,Excellent value for money!,False
+ORD00526,CUST0109,2021-06-04,Home,Kitchen,45.85,3,1,"Great product, really enjoyed it.",False
+ORD00527,CUST0045,2021-02-05,Home,Bedding,51.17,2,4,Quality could be better.,False
+ORD00528,CUST0041,2021-10-12,Electronics,Camera,101.44,2,,Excellent value for money!,False
+ORD00529,CUST0188,2021-06-24,Electronics,Camera,107.79,2,4,Excellent value for money!,False
+ORD00530,CUST0159,2020-02-20,Home,Furniture,72.87,1,2,Excellent value for money!,False
+ORD00531,CUST0020,2020-08-23,Electronics,Mobile,119.16,2,4,Not what I expected.,False
+ORD00532,CUST0156,2020-10-29,Clothing,Shoes,50.15,1,2,,False
+ORD00533,CUST0029,2020-05-01,Books,Comics,98.02,1,4,,False
+ORD00534,CUST0085,2021-12-10,Home,Furniture,63.67,4,1,Not what I expected.,False
+ORD00535,CUST0140,2020-03-21,Home,Decor,80.44,2,4,Quality could be better.,True
+ORD00536,CUST0005,2021-01-10,Electronics,Laptop,101.42,2,4,,False
+ORD00537,CUST0141,2020-12-10,Electronics,Mobile,74.19,3,5,Not what I expected.,False
+ORD00538,CUST0147,2021-09-23,Clothing,Shirt,88.46,4,4,Would buy again.,False
+ORD00539,CUST0022,2021-06-04,Home,Kitchen,130.19,3,4,Excellent value for money!,True
+ORD00540,CUST0088,2021-01-04,Books,Non-Fiction,82.69,4,4,Excellent value for money!,False
+ORD00541,CUST0047,2020-06-02,Clothing,Shirt,125.07,2,1,"Great product, really enjoyed it.",False
+ORD00542,CUST0162,2021-09-15,Books,Education,661.1,1,4,Not what I expected.,False
+ORD00543,CUST0156,2020-06-21,Home,Decor,115.89,1,2,"Poor packaging, arrived damaged.",False
+ORD00544,CUST0094,2020-01-13,Clothing,Jeans,143.25,1,,Excellent value for money!,False
+ORD00545,CUST0158,2021-02-04,Home,Kitchen,25.85,1,1,,False
+ORD00546,CUST0106,2020-01-04,Electronics,Camera,76.09,1,3,"Poor packaging, arrived damaged.",False
+ORD00547,CUST0196,2021-03-08,Books,Fiction,117.31,3,4,Quality could be better.,False
+ORD00548,CUST0022,2021-11-06,Books,Fiction,93.91,4,3,Excellent value for money!,False
+ORD00549,CUST0166,2021-09-08,Clothing,Shirt,111.13,2,1,Not what I expected.,False
+ORD00550,CUST0189,2020-01-14,Electronics,Camera,81.88,3,4,Would buy again.,False
+ORD00551,CUST0147,2021-02-16,Clothing,Shoes,102.6,4,4,Not what I expected.,True
+ORD00552,CUST0184,2021-02-07,Books,Comics,95.33,1,5,Excellent value for money!,False
+ORD00553,CUST0199,2020-06-03,Electronics,Laptop,135.03,4,3,"Poor packaging, arrived damaged.",True
+ORD00554,CUST0133,2021-08-23,Books,Non-Fiction,107.63,4,4,"Poor packaging, arrived damaged.",False
+ORD00555,CUST0050,2020-06-26,Electronics,Mobile,110.13,1,3,Not what I expected.,False
+ORD00556,CUST0148,2021-04-17,Books,Comics,87.64,1,4,"Poor packaging, arrived damaged.",False
+ORD00557,CUST0078,2021-04-23,Electronics,Laptop,85.37,1,4,Quality could be better.,False
+ORD00558,CUST0044,2020-11-17,Clothing,Jeans,87.02,2,4,,False
+ORD00559,CUST0022,2020-07-09,Home,Furniture,111.83,1,2,Excellent value for money!,False
+ORD00560,CUST0192,2020-12-28,Electronics,Mobile,87.37,2,1,,True
+ORD00561,CUST0003,2020-06-05,Home,Kitchen,108.69,1,2,Not what I expected.,True
+ORD00562,CUST0078,2021-02-10,Clothing,Shoes,162.26,2,1,Would buy again.,False
+ORD00563,CUST0068,2021-03-24,Home,Furniture,126.13,4,3,Excellent value for money!,False
+ORD00564,CUST0128,2021-10-23,Clothing,Shoes,90.22,3,4,"Great product, really enjoyed it.",True
+ORD00565,CUST0108,2021-01-27,Electronics,Tablet,136.04,4,2,Excellent value for money!,False
+ORD00566,CUST0130,2020-02-08,Electronics,Tablet,87.76,4,,Excellent value for money!,False
+ORD00567,CUST0168,2020-04-26,Home,Furniture,38.86,1,1,Quality could be better.,False
+ORD00568,CUST0144,2020-11-07,Books,Comics,69.76,2,5,Would buy again.,False
+ORD00569,CUST0200,2021-04-18,Clothing,Shoes,43.88,3,4,"Great product, really enjoyed it.",False
+ORD00570,CUST0178,2020-02-10,Home,Furniture,89.45,1,3,,False
+ORD00571,CUST0176,2021-09-17,Clothing,Shoes,100.55,1,1,Would buy again.,False
+ORD00572,CUST0132,2021-04-30,Electronics,Laptop,1502.8999999999999,1,4,,False
+ORD00573,CUST0130,2020-10-04,Home,Bedding,109.81,4,3,Not what I expected.,False
+ORD00574,CUST0127,2020-03-21,Electronics,Camera,93.43,2,,Would buy again.,False
+ORD00575,CUST0016,2020-06-23,Electronics,Laptop,124.88,2,4,"Great product, really enjoyed it.",False
+ORD00576,CUST0128,2021-03-19,Electronics,Tablet,33.67,3,,"Poor packaging, arrived damaged.",False
+ORD00577,CUST0003,2020-04-14,Books,Fiction,107.07,2,2,"Poor packaging, arrived damaged.",False
+ORD00578,CUST0177,2020-11-22,Clothing,Dress,123.13,2,5,,False
+ORD00579,CUST0006,2021-05-29,Clothing,Jeans,55.64,1,4,,False
+ORD00580,CUST0033,2020-12-26,Clothing,Dress,134.31,1,5,"Poor packaging, arrived damaged.",False
+ORD00581,CUST0020,2021-10-18,Books,Non-Fiction,110.15,4,2,Excellent value for money!,True
+ORD00582,CUST0153,2021-11-30,Home,Bedding,87.54,1,4,Excellent value for money!,False
+ORD00583,CUST0077,2020-05-04,Books,Education,118.98,1,3,"Great product, really enjoyed it.",False
+ORD00584,CUST0066,2021-05-29,Books,Non-Fiction,168.12,1,5,"Poor packaging, arrived damaged.",False
+ORD00585,CUST0052,2020-05-23,Electronics,Camera,105.46,1,3,Not what I expected.,False
+ORD00586,CUST0195,2021-09-20,Clothing,Shoes,107.45,4,5,Would buy again.,False
+ORD00587,CUST0026,2020-05-12,Books,Education,862.2,1,1,Would buy again.,False
+ORD00588,CUST0115,2021-11-23,Books,Education,74.5,3,5,Excellent value for money!,False
+ORD00589,CUST0105,2021-01-16,Electronics,Laptop,124.91,3,5,"Poor packaging, arrived damaged.",False
+ORD00590,CUST0045,2021-02-03,Books,Non-Fiction,74.32,3,5,"Poor packaging, arrived damaged.",False
+ORD00591,CUST0123,2020-11-02,Books,Fiction,102.15,3,4,Not what I expected.,False
+ORD00592,CUST0185,2020-08-01,Electronics,Camera,85.67,1,3,Not what I expected.,False
+ORD00593,CUST0125,2021-08-17,Books,Fiction,114.37,3,,"Poor packaging, arrived damaged.",False
+ORD00594,CUST0199,2021-04-06,Clothing,Shoes,110.01,1,2,"Poor packaging, arrived damaged.",False
+ORD00595,CUST0198,2021-11-21,Books,Education,131.13,4,4,"Great product, really enjoyed it.",False
+ORD00596,CUST0180,2021-10-25,Electronics,Mobile,84.7,3,4,Excellent value for money!,True
+ORD00597,CUST0062,2020-10-18,Electronics,Camera,91.9,2,5,,False
+ORD00598,CUST0062,2020-09-08,Clothing,Jeans,70.64,3,2,Not what I expected.,False
+ORD00599,CUST0034,2021-05-26,Clothing,Shoes,86.67,3,4,,False
+ORD00600,CUST0138,2020-03-30,Clothing,Shoes,111.32,1,5,Would buy again.,False
+ORD00601,CUST0127,2020-01-01,Books,Education,122.71,3,1,Quality could be better.,False
+ORD00602,CUST0153,2020-01-25,Clothing,Dress,72.34,2,,Not what I expected.,False
+ORD00603,CUST0066,2020-09-02,Electronics,Tablet,126.09,1,1,,False
+ORD00604,CUST0157,2021-05-08,Clothing,Shirt,140.67,1,3,"Great product, really enjoyed it.",False
+ORD00605,CUST0097,2021-03-11,Clothing,Shoes,112.4,4,1,Quality could be better.,False
+ORD00606,CUST0169,2020-03-17,Books,Fiction,156.3,4,1,"Great product, really enjoyed it.",False
+ORD00607,CUST0172,2020-01-15,Clothing,Jeans,76.79,3,,"Great product, really enjoyed it.",False
+ORD00608,CUST0160,2020-12-31,Electronics,Camera,62.66,4,3,,False
+ORD00609,CUST0168,2021-11-19,Electronics,Tablet,46.64,4,3,"Poor packaging, arrived damaged.",False
+ORD00610,CUST0042,2020-09-12,Clothing,Shoes,144.88,4,2,"Poor packaging, arrived damaged.",False
+ORD00611,CUST0128,2021-02-05,Electronics,Laptop,119.63,1,4,"Great product, really enjoyed it.",False
+ORD00612,CUST0100,2020-11-28,Home,Bedding,98.33,1,4,Quality could be better.,False
+ORD00613,CUST0162,2021-04-17,Books,Education,108.4,1,3,Excellent value for money!,False
+ORD00614,CUST0199,2020-06-20,Clothing,Shoes,66.24,4,3,Would buy again.,False
+ORD00615,CUST0090,2020-03-16,Books,Education,173.37,1,5,Not what I expected.,False
+ORD00616,CUST0199,2020-08-11,Clothing,Dress,103.88,4,3,,True
+ORD00617,CUST0163,2020-06-29,Home,Bedding,103.28,1,3,Excellent value for money!,False
+ORD00618,CUST0186,2020-07-15,Clothing,Shoes,121.77,1,2,Quality could be better.,False
+ORD00619,CUST0114,2021-05-12,Books,Fiction,114.43,2,5,Not what I expected.,False
+ORD00620,CUST0093,2020-08-12,Clothing,Shoes,106.72,3,3,Quality could be better.,False
+ORD00621,CUST0123,2020-11-06,Electronics,Camera,76.29,4,4,,True
+ORD00622,CUST0052,2020-06-10,Home,Bedding,114.14,2,2,,False
+ORD00623,CUST0160,2020-03-18,Clothing,Shirt,156.46,1,,Would buy again.,False
+ORD00624,CUST0032,2021-10-10,Books,Fiction,140.36,4,2,Quality could be better.,False
+ORD00625,CUST0119,2020-01-26,Electronics,Camera,147.8,1,5,"Great product, really enjoyed it.",False
+ORD00626,CUST0113,2020-03-06,Home,Bedding,84.66,3,3,Excellent value for money!,False
+ORD00627,CUST0100,2020-01-18,Home,Kitchen,703.1,2,2,Excellent value for money!,False
+ORD00628,CUST0037,2020-12-20,Clothing,Jeans,96.23,3,5,Not what I expected.,False
+ORD00629,CUST0102,2021-02-28,Electronics,Camera,101.67,2,3,Would buy again.,False
+ORD00630,CUST0106,2020-11-18,Home,Furniture,132.83,1,5,Quality could be better.,False
+ORD00631,CUST0159,2020-07-31,Home,Decor,49.23,3,,"Poor packaging, arrived damaged.",False
+ORD00632,CUST0037,2020-08-16,Books,Non-Fiction,145.89,3,5,Would buy again.,False
+ORD00633,CUST0065,2020-03-07,Home,Kitchen,95.26,1,1,Excellent value for money!,False
+ORD00634,CUST0178,2021-01-25,Home,Decor,87.19,3,5,,False
+ORD00635,CUST0106,2020-11-10,Electronics,Mobile,69.64,4,3,Not what I expected.,False
+ORD00636,CUST0125,2021-04-15,Clothing,Dress,50.35,2,5,"Poor packaging, arrived damaged.",False
+ORD00637,CUST0038,2020-10-14,Home,Furniture,124.7,2,4,Would buy again.,True
+ORD00638,CUST0121,2020-02-15,Clothing,Jeans,102.2,2,5,Excellent value for money!,False
+ORD00639,CUST0175,2020-11-10,Home,Bedding,61.3,4,3,Quality could be better.,False
+ORD00640,CUST0137,2021-05-21,Home,Kitchen,61.15,2,4,,False
+ORD00641,CUST0108,2021-10-03,Clothing,Shirt,89.93,1,1,,True
+ORD00642,CUST0012,2021-08-25,Books,Non-Fiction,150.07,3,5,Not what I expected.,False
+ORD00643,CUST0159,2020-02-14,Home,Kitchen,92.21,4,3,Excellent value for money!,False
+ORD00644,CUST0119,2020-09-04,Books,Education,54.91,2,4,Quality could be better.,False
+ORD00645,CUST0058,2020-01-01,Electronics,Laptop,92.63,1,5,,False
+ORD00646,CUST0049,2020-07-31,Home,Decor,91.82,3,4,Excellent value for money!,False
+ORD00647,CUST0098,2020-11-01,Home,Furniture,19.09,3,2,,False
+ORD00648,CUST0084,2021-02-28,Home,Kitchen,98.37,4,4,"Great product, really enjoyed it.",False
+ORD00649,CUST0133,2021-02-15,Home,Bedding,93.07,4,3,,False
+ORD00650,CUST0011,2020-07-07,Electronics,Mobile,120.89,4,3,"Poor packaging, arrived damaged.",False
+ORD00651,CUST0091,2021-04-27,Books,Education,155.47,1,1,Would buy again.,False
+ORD00652,CUST0097,2021-06-13,Books,Fiction,133.8,1,2,Would buy again.,False
+ORD00653,CUST0055,2021-10-05,Clothing,Dress,91.93,4,2,Would buy again.,False
+ORD00654,CUST0092,2021-04-07,Clothing,Jeans,66.8,2,5,"Great product, really enjoyed it.",False
+ORD00655,CUST0150,2021-07-10,Books,Education,177.2,3,1,,True
+ORD00656,CUST0197,2020-02-20,Books,Education,101.78,3,3,"Great product, really enjoyed it.",False
+ORD00657,CUST0011,2020-04-13,Clothing,Shoes,100.42,1,,"Great product, really enjoyed it.",False
+ORD00658,CUST0059,2020-04-26,Electronics,Tablet,99.28,3,1,,False
+ORD00659,CUST0110,2020-07-20,Electronics,Camera,105.94,2,4,Not what I expected.,True
+ORD00660,CUST0122,2021-01-01,Clothing,Dress,95.67,3,5,,True
+ORD00661,CUST0159,2020-06-24,Clothing,Dress,82.79,1,,Not what I expected.,False
+ORD00662,CUST0138,2020-08-03,Books,Non-Fiction,83.59,1,5,Not what I expected.,False
+ORD00663,CUST0132,2020-05-22,Books,Comics,99.02,2,5,Would buy again.,False
+ORD00664,CUST0042,2021-09-13,Home,Furniture,83.7,2,5,,False
+ORD00665,CUST0159,2020-08-26,Clothing,Jeans,78.61,3,3,Would buy again.,False
+ORD00666,CUST0136,2020-03-06,Clothing,Dress,103.19,3,5,Quality could be better.,False
+ORD00667,CUST0060,2020-06-24,Clothing,Dress,92.35,1,1,Excellent value for money!,False
+ORD00668,CUST0044,2021-08-12,Books,Fiction,145.12,2,,Quality could be better.,False
+ORD00669,CUST0073,2020-10-20,Books,Non-Fiction,20.47,2,3,"Great product, really enjoyed it.",False
+ORD00670,CUST0169,2021-10-07,Books,Comics,132.75,2,4,Excellent value for money!,False
+ORD00671,CUST0139,2021-04-02,Books,Comics,137.38,3,2,Not what I expected.,False
+ORD00672,CUST0167,2020-10-07,Home,Bedding,37.8,2,5,,False
+ORD00673,CUST0134,2021-11-23,Clothing,Dress,89.72,1,1,Not what I expected.,False
+ORD00674,CUST0165,2020-05-21,Electronics,Tablet,88.86,1,5,Quality could be better.,False
+ORD00675,CUST0195,2021-03-03,Clothing,Dress,57.77,3,5,"Great product, really enjoyed it.",False
+ORD00676,CUST0174,2021-10-02,Home,Bedding,76.67,4,2,Quality could be better.,False
+ORD00677,CUST0146,2020-11-04,Home,Kitchen,66.68,3,5,Not what I expected.,False
+ORD00678,CUST0119,2021-11-13,Home,Decor,152.57,4,5,"Poor packaging, arrived damaged.",False
+ORD00679,CUST0149,2020-03-25,Clothing,Jeans,128.07,2,4,"Great product, really enjoyed it.",True
+ORD00680,CUST0092,2020-12-26,Electronics,Mobile,138.15,3,3,,False
+ORD00681,CUST0187,2020-08-31,Clothing,Shoes,121.65,1,2,Excellent value for money!,False
+ORD00682,CUST0138,2020-10-26,Books,Education,66.13,2,2,Quality could be better.,False
+ORD00683,CUST0122,2020-04-14,Books,Education,84.26,1,3,Not what I expected.,False
+ORD00684,CUST0138,2021-12-20,Books,Education,114.68,2,,Quality could be better.,False
+ORD00685,CUST0200,2020-01-19,Clothing,Dress,63.34,3,1,"Great product, really enjoyed it.",False
+ORD00686,CUST0013,2021-01-29,Electronics,Tablet,121.39,4,5,,False
+ORD00687,CUST0163,2020-07-18,Books,Education,92.79,2,3,Excellent value for money!,False
+ORD00688,CUST0092,2020-10-31,Clothing,Dress,88.76,4,4,"Great product, really enjoyed it.",False
+ORD00689,CUST0075,2021-08-20,Electronics,Tablet,121.33,2,5,"Poor packaging, arrived damaged.",False
+ORD00690,CUST0055,2021-12-07,Books,Non-Fiction,113.33,1,5,Would buy again.,False
+ORD00691,CUST0105,2020-10-23,Home,Kitchen,89.17,1,3,Would buy again.,False
+ORD00692,CUST0193,2020-02-26,Home,Decor,134.78,2,3,,False
+ORD00693,CUST0169,2020-03-22,Electronics,Mobile,67.57,4,3,,False
+ORD00694,CUST0067,2021-04-09,Clothing,Shirt,118.48,3,1,"Great product, really enjoyed it.",False
+ORD00695,CUST0188,2021-06-05,Clothing,Dress,117.79,3,2,"Great product, really enjoyed it.",False
+ORD00696,CUST0113,2020-08-10,Books,Education,90.71,1,3,Excellent value for money!,False
+ORD00697,CUST0109,2021-05-11,Books,Non-Fiction,109.78,3,3,,False
+ORD00698,CUST0144,2021-10-21,Electronics,Camera,62.47,1,5,,True
+ORD00699,CUST0170,2021-12-02,Clothing,Shirt,127.72,3,3,Would buy again.,True
+ORD00700,CUST0063,2020-10-05,Books,Non-Fiction,94.45,2,3,Excellent value for money!,False
+ORD00701,CUST0079,2021-04-23,Home,Kitchen,84.32,1,3,,False
+ORD00702,CUST0085,2021-07-01,Books,Comics,131.47,1,5,Excellent value for money!,False
+ORD00703,CUST0053,2021-10-14,Electronics,Camera,78.87,2,5,,False
+ORD00704,CUST0136,2021-09-21,Home,Decor,57.75,1,4,Quality could be better.,False
+ORD00705,CUST0006,2021-03-03,Clothing,Shoes,53.3,3,5,Would buy again.,False
+ORD00706,CUST0013,2021-05-18,Clothing,Shirt,118.18,3,2,Would buy again.,False
+ORD00707,CUST0127,2021-03-24,Electronics,Laptop,61.59,1,4,Excellent value for money!,False
+ORD00708,CUST0082,2020-02-10,Clothing,Jeans,152.64,3,3,"Great product, really enjoyed it.",False
+ORD00709,CUST0026,2020-07-20,Clothing,Shirt,37.54,4,3,,False
+ORD00710,CUST0115,2021-06-14,Electronics,Laptop,150.89,1,5,,False
+ORD00711,CUST0060,2020-11-13,Home,Furniture,106.33,2,5,Would buy again.,False
+ORD00712,CUST0018,2021-06-23,Home,Decor,97.1,4,1,Not what I expected.,True
+ORD00713,CUST0157,2021-07-15,Books,Education,83.65,1,4,,False
+ORD00714,CUST0050,2020-12-19,Books,Comics,111.97,2,4,"Great product, really enjoyed it.",False
+ORD00715,CUST0189,2020-10-05,Home,Kitchen,98.87,3,1,"Poor packaging, arrived damaged.",False
+ORD00716,CUST0009,2020-06-11,Home,Kitchen,133.1,2,2,Excellent value for money!,False
+ORD00717,CUST0153,2021-12-13,Home,Kitchen,103.43,4,3,Excellent value for money!,False
+ORD00718,CUST0042,2021-01-28,Clothing,Jeans,104.51,3,2,"Poor packaging, arrived damaged.",False
+ORD00719,CUST0004,2020-11-05,Electronics,Mobile,89.09,1,2,"Poor packaging, arrived damaged.",False
+ORD00720,CUST0146,2021-05-13,Clothing,Shoes,98.29,3,2,Would buy again.,False
+ORD00721,CUST0114,2021-04-22,Clothing,Jeans,109.23,1,3,Quality could be better.,False
+ORD00722,CUST0046,2021-08-06,Clothing,Dress,48.69,1,5,,False
+ORD00723,CUST0092,2021-07-27,Electronics,Laptop,59.55,2,4,Quality could be better.,False
+ORD00724,CUST0079,2021-11-11,Clothing,Dress,122.3,2,,Excellent value for money!,False
+ORD00725,CUST0160,2020-02-05,Electronics,Mobile,105.13,2,3,"Great product, really enjoyed it.",False
+ORD00726,CUST0059,2021-02-13,Books,Comics,94.48,4,5,"Poor packaging, arrived damaged.",False
+ORD00727,CUST0108,2020-12-07,Home,Furniture,100.55,4,5,Would buy again.,False
+ORD00728,CUST0105,2020-04-07,Electronics,Laptop,110.43,2,4,"Great product, really enjoyed it.",False
+ORD00729,CUST0033,2020-04-04,Books,Non-Fiction,83.81,4,3,Not what I expected.,False
+ORD00730,CUST0141,2021-03-01,Clothing,Jeans,76.65,3,5,,False
+ORD00731,CUST0094,2020-07-23,Electronics,Tablet,105.88,3,2,Not what I expected.,False
+ORD00732,CUST0019,2020-09-08,Electronics,Tablet,70.65,4,3,Quality could be better.,False
+ORD00733,CUST0068,2021-01-17,Books,Education,112.25,4,4,,False
+ORD00734,CUST0164,2021-05-04,Clothing,Dress,48.92,3,4,,False
+ORD00735,CUST0057,2020-11-03,Clothing,Dress,130.87,1,1,,False
+ORD00736,CUST0065,2021-01-23,Home,Kitchen,114.18,3,,Would buy again.,False
+ORD00737,CUST0137,2021-03-05,Electronics,Tablet,107.68,3,4,"Great product, really enjoyed it.",False
+ORD00738,CUST0010,2021-12-31,Home,Furniture,129.48,4,3,,True
+ORD00739,CUST0165,2020-08-31,Clothing,Jeans,149.96,3,,Not what I expected.,False
+ORD00740,CUST0083,2020-08-19,Clothing,Shoes,130.43,4,3,Not what I expected.,True
+ORD00741,CUST0133,2021-05-24,Books,Fiction,44.77,4,,,False
+ORD00742,CUST0037,2021-05-23,Electronics,Tablet,61.61,2,4,"Poor packaging, arrived damaged.",False
+ORD00743,CUST0093,2020-08-19,Books,Non-Fiction,81.26,3,1,"Poor packaging, arrived damaged.",False
+ORD00744,CUST0042,2021-09-23,Clothing,Shoes,100.78,1,5,Quality could be better.,False
+ORD00745,CUST0135,2020-05-30,Clothing,Shirt,115.53,2,4,Would buy again.,False
+ORD00746,CUST0069,2020-02-22,Clothing,Shirt,78.23,4,5,Would buy again.,False
+ORD00747,CUST0199,2020-10-28,Clothing,Jeans,105.6,4,,Not what I expected.,False
+ORD00748,CUST0167,2020-08-10,Electronics,Camera,77.34,1,5,,True
+ORD00749,CUST0101,2021-10-09,Electronics,Mobile,81.65,4,4,,False
+ORD00750,CUST0178,2020-07-09,Electronics,Mobile,57.8,3,5,,False
+ORD00751,CUST0124,2021-08-15,Home,Kitchen,72.3,2,4,Would buy again.,False
+ORD00752,CUST0175,2021-02-20,Electronics,Tablet,59.45,4,3,"Poor packaging, arrived damaged.",False
+ORD00753,CUST0132,2021-12-24,Clothing,Shoes,70.72,4,5,"Poor packaging, arrived damaged.",False
+ORD00754,CUST0125,2020-03-06,Home,Decor,131.61,1,2,,False
+ORD00755,CUST0071,2021-11-10,Home,Decor,71.52,3,5,,False
+ORD00756,CUST0196,2021-09-30,Electronics,Mobile,178.97,4,5,"Poor packaging, arrived damaged.",False
+ORD00757,CUST0069,2020-06-23,Clothing,Jeans,114.8,1,5,Would buy again.,False
+ORD00758,CUST0049,2020-11-23,Clothing,Shoes,105.55,4,4,Quality could be better.,False
+ORD00759,CUST0154,2020-06-06,Electronics,Camera,74.25,1,5,,False
+ORD00760,CUST0082,2020-11-05,Books,Education,121.01,1,3,"Poor packaging, arrived damaged.",False
+ORD00761,CUST0014,2020-06-08,Electronics,Tablet,82.73,3,5,Not what I expected.,False
+ORD00762,CUST0001,2021-02-25,Home,Decor,103.66,4,2,"Poor packaging, arrived damaged.",False
+ORD00763,CUST0063,2021-02-20,Electronics,Tablet,176.8,3,1,"Poor packaging, arrived damaged.",False
+ORD00764,CUST0168,2021-07-02,Books,Fiction,97.12,1,2,,False
+ORD00765,CUST0186,2021-02-03,Books,Non-Fiction,134.48,2,4,Quality could be better.,False
+ORD00766,CUST0058,2021-08-30,Clothing,Shirt,78.9,4,4,"Great product, really enjoyed it.",True
+ORD00767,CUST0072,2020-05-17,Home,Bedding,98.95,2,5,Quality could be better.,False
+ORD00768,CUST0069,2020-09-04,Home,Kitchen,153.12,4,3,"Poor packaging, arrived damaged.",False
+ORD00769,CUST0119,2021-12-13,Home,Bedding,81.19,3,3,Would buy again.,False
+ORD00770,CUST0134,2020-07-20,Home,Bedding,154.37,3,1,Not what I expected.,True
+ORD00771,CUST0118,2021-07-16,Electronics,Tablet,121.23,3,3,Not what I expected.,False
+ORD00772,CUST0146,2021-04-16,Electronics,Mobile,83.13,3,4,Would buy again.,True
+ORD00773,CUST0026,2020-10-24,Electronics,Camera,118.97,3,1,Excellent value for money!,False
+ORD00774,CUST0142,2020-12-15,Clothing,Dress,129.18,2,2,Excellent value for money!,False
+ORD00775,CUST0058,2021-12-08,Clothing,Jeans,118.65,3,2,Not what I expected.,False
+ORD00776,CUST0032,2020-07-29,Clothing,Jeans,52.89,1,1,"Great product, really enjoyed it.",False
+ORD00777,CUST0136,2021-02-05,Electronics,Camera,78.19,1,3,Excellent value for money!,False
+ORD00778,CUST0180,2020-04-20,Home,Decor,92.57,2,2,"Poor packaging, arrived damaged.",False
+ORD00779,CUST0126,2020-01-16,Books,Fiction,97.77,4,5,Would buy again.,False
+ORD00780,CUST0074,2021-08-21,Books,Education,118.62,1,5,Excellent value for money!,False
+ORD00781,CUST0166,2020-01-28,Clothing,Jeans,105.33,4,4,Quality could be better.,False
+ORD00782,CUST0059,2021-02-05,Home,Bedding,59.94,2,,"Great product, really enjoyed it.",False
+ORD00783,CUST0018,2021-10-13,Home,Bedding,111.41,4,3,"Great product, really enjoyed it.",False
+ORD00784,CUST0054,2021-04-18,Electronics,Mobile,118.32,4,4,Quality could be better.,False
+ORD00785,CUST0154,2020-03-31,Clothing,Shoes,116.79,4,,Not what I expected.,False
+ORD00786,CUST0014,2021-05-06,Books,Fiction,132.42,4,2,,False
+ORD00787,CUST0087,2020-11-06,Electronics,Camera,125.02,2,,Excellent value for money!,False
+ORD00788,CUST0115,2021-04-02,Clothing,Shoes,113.78,1,1,"Great product, really enjoyed it.",False
+ORD00789,CUST0123,2020-07-28,Electronics,Mobile,97.9,3,3,"Great product, really enjoyed it.",False
+ORD00790,CUST0164,2020-10-12,Electronics,Camera,50.17,4,1,"Poor packaging, arrived damaged.",False
+ORD00791,CUST0015,2020-04-01,Home,Decor,112.89,1,5,,False
+ORD00792,CUST0179,2021-12-17,Electronics,Laptop,106.23,1,4,Excellent value for money!,False
+ORD00793,CUST0048,2020-10-15,Clothing,Shirt,108.15,2,5,"Great product, really enjoyed it.",False
+ORD00794,CUST0132,2021-03-18,Home,Decor,61.7,1,3,Not what I expected.,False
+ORD00795,CUST0123,2020-11-22,Electronics,Laptop,67.57,2,3,Excellent value for money!,False
+ORD00796,CUST0187,2020-09-04,Home,Decor,131.59,4,1,,False
+ORD00797,CUST0162,2020-01-11,Home,Bedding,98.81,4,3,Quality could be better.,False
+ORD00798,CUST0151,2021-11-30,Clothing,Jeans,120.45,3,,,False
+ORD00799,CUST0198,2021-02-14,Clothing,Jeans,100.85,3,3,,False
+ORD00800,CUST0052,2021-02-08,Books,Fiction,100.89,3,5,Not what I expected.,False
+ORD00801,CUST0040,2020-02-06,Clothing,Shirt,128.15,1,5,,False
+ORD00802,CUST0055,2021-09-08,Home,Bedding,84.52,4,3,Not what I expected.,False
+ORD00803,CUST0021,2021-08-15,Electronics,Mobile,102.88,2,4,"Great product, really enjoyed it.",False
+ORD00804,CUST0094,2020-02-06,Electronics,Laptop,86.13,3,1,"Poor packaging, arrived damaged.",False
+ORD00805,CUST0104,2020-10-10,Electronics,Tablet,86.97,2,1,,False
+ORD00806,CUST0179,2020-06-13,Clothing,Dress,90.72,2,1,Would buy again.,False
+ORD00807,CUST0042,2020-02-16,Books,Education,106.66,3,4,,True
+ORD00808,CUST0080,2021-09-09,Clothing,Shoes,85.64,4,3,Would buy again.,False
+ORD00809,CUST0164,2021-02-14,Books,Education,137.67,3,4,Quality could be better.,False
+ORD00810,CUST0054,2020-03-07,Books,Fiction,73.16,2,4,,False
+ORD00811,CUST0087,2021-09-23,Home,Kitchen,94.39,3,3,Quality could be better.,False
+ORD00812,CUST0147,2020-04-29,Electronics,Tablet,86.81,2,4,,False
+ORD00813,CUST0124,2021-09-30,Clothing,Shirt,143.41,2,5,Would buy again.,False
+ORD00814,CUST0133,2020-09-19,Books,Education,105.9,3,1,"Poor packaging, arrived damaged.",True
+ORD00815,CUST0145,2020-06-20,Books,Comics,130.96,1,2,,False
+ORD00816,CUST0001,2020-01-31,Books,Education,55.43,3,5,"Poor packaging, arrived damaged.",False
+ORD00817,CUST0043,2021-04-30,Books,Non-Fiction,108.01,1,3,Would buy again.,False
+ORD00818,CUST0186,2020-08-28,Electronics,Laptop,126.69,2,4,,False
+ORD00819,CUST0039,2021-01-26,Home,Decor,102.47,2,3,Excellent value for money!,True
+ORD00820,CUST0086,2021-04-01,Home,Decor,131.96,1,3,,False
+ORD00821,CUST0135,2021-01-10,Home,Bedding,84.48,2,2,,False
+ORD00822,CUST0187,2021-07-10,Clothing,Dress,1422.8,1,2,Excellent value for money!,False
+ORD00823,CUST0172,2021-10-07,Clothing,Shoes,168.97,1,4,"Great product, really enjoyed it.",False
+ORD00824,CUST0198,2021-09-08,Electronics,Camera,89.11,2,3,Quality could be better.,False
+ORD00825,CUST0196,2020-05-31,Electronics,Tablet,86.63,4,5,"Great product, really enjoyed it.",False
+ORD00826,CUST0183,2021-02-05,Books,Comics,143.6,1,5,Quality could be better.,False
+ORD00827,CUST0060,2020-07-03,Home,Furniture,147.39,3,4,"Great product, really enjoyed it.",False
+ORD00828,CUST0135,2021-01-31,Books,Comics,84.31,3,5,Would buy again.,False
+ORD00829,CUST0168,2021-08-25,Electronics,Camera,87.39,2,3,,False
+ORD00830,CUST0043,2020-12-03,Electronics,Camera,91.55,4,3,,False
+ORD00831,CUST0190,2020-10-05,Clothing,Shoes,59.67,2,5,Excellent value for money!,False
+ORD00832,CUST0034,2020-11-03,Home,Bedding,72.44,4,3,Quality could be better.,True
+ORD00833,CUST0075,2020-01-15,Clothing,Dress,69.88,1,4,"Great product, really enjoyed it.",False
+ORD00834,CUST0188,2020-04-17,Clothing,Dress,76.97,1,2,,False
+ORD00835,CUST0200,2021-09-19,Electronics,Mobile,98.96,1,4,Would buy again.,False
+ORD00836,CUST0001,2020-09-27,Clothing,Shirt,107.03,1,5,Not what I expected.,False
+ORD00837,CUST0005,2020-07-15,Electronics,Camera,146.52,3,5,Quality could be better.,True
+ORD00838,CUST0046,2020-06-12,Books,Comics,70.05,3,5,Excellent value for money!,False
+ORD00839,CUST0149,2021-06-14,Books,Non-Fiction,129.53,2,5,,False
+ORD00840,CUST0007,2021-07-29,Home,Decor,93.58,4,4,,False
+ORD00841,CUST0054,2020-10-01,Clothing,Shoes,98.52,1,4,Not what I expected.,False
+ORD00842,CUST0091,2020-12-24,Clothing,Jeans,120.24,1,1,"Poor packaging, arrived damaged.",True
+ORD00843,CUST0021,2021-12-04,Books,Comics,66.32,4,3,,False
+ORD00844,CUST0001,2021-05-04,Clothing,Shirt,111.47,4,3,,True
+ORD00845,CUST0150,2021-02-06,Clothing,Dress,104.99,2,,,False
+ORD00846,CUST0103,2021-07-10,Home,Bedding,114.77,4,3,"Great product, really enjoyed it.",False
+ORD00847,CUST0136,2020-06-24,Home,Bedding,108.68,1,4,Excellent value for money!,False
+ORD00848,CUST0024,2020-12-09,Home,Decor,173.66,1,4,Excellent value for money!,False
+ORD00849,CUST0152,2020-11-22,Books,Comics,80.87,1,4,Would buy again.,False
+ORD00850,CUST0139,2020-06-26,Home,Decor,84.07,1,5,"Great product, really enjoyed it.",False
+ORD00851,CUST0177,2021-12-28,Electronics,Laptop,81.31,1,2,"Great product, really enjoyed it.",False
+ORD00852,CUST0173,2020-10-13,Clothing,Jeans,83.34,2,4,,False
+ORD00853,CUST0118,2021-05-07,Electronics,Mobile,80.88,1,5,Would buy again.,True
+ORD00854,CUST0167,2021-02-25,Electronics,Mobile,135.67,2,3,,False
+ORD00855,CUST0086,2021-10-07,Clothing,Shirt,142.62,1,2,Not what I expected.,False
+ORD00856,CUST0002,2020-10-29,Books,Comics,82.88,3,4,"Poor packaging, arrived damaged.",False
+ORD00857,CUST0057,2021-09-28,Books,Education,75.03,3,5,Excellent value for money!,False
+ORD00858,CUST0108,2021-03-21,Clothing,Shirt,114.14,3,1,,False
+ORD00859,CUST0153,2020-01-02,Electronics,Mobile,83.43,3,5,,False
+ORD00860,CUST0064,2021-01-31,Home,Kitchen,118.99,2,5,"Poor packaging, arrived damaged.",False
+ORD00861,CUST0018,2020-02-21,Home,Bedding,106.09,2,3,,False
+ORD00862,CUST0122,2020-07-09,Books,Comics,54.53,4,,Quality could be better.,False
+ORD00863,CUST0120,2020-04-03,Electronics,Laptop,146.43,1,5,"Poor packaging, arrived damaged.",False
+ORD00864,CUST0080,2020-01-17,Books,Comics,153.88,3,5,Quality could be better.,False
+ORD00865,CUST0058,2021-10-07,Books,Comics,81.62,2,5,"Poor packaging, arrived damaged.",True
+ORD00866,CUST0154,2021-11-30,Books,Non-Fiction,88.37,1,2,Excellent value for money!,True
+ORD00867,CUST0145,2020-11-23,Home,Kitchen,108.58,1,2,,False
+ORD00868,CUST0103,2021-04-28,Clothing,Jeans,110.03,2,3,,False
+ORD00869,CUST0187,2021-04-13,Home,Decor,119.76,3,2,Would buy again.,False
+ORD00870,CUST0013,2021-12-18,Electronics,Mobile,160.31,4,3,Would buy again.,False
+ORD00871,CUST0088,2020-04-17,Electronics,Laptop,94.69,1,5,Excellent value for money!,False
+ORD00872,CUST0145,2020-07-21,Books,Fiction,76.05,4,5,Not what I expected.,False
+ORD00873,CUST0023,2021-09-07,Books,Comics,58.62,3,4,,False
+ORD00874,CUST0042,2021-02-06,Electronics,Camera,78.07,3,5,Not what I expected.,False
+ORD00875,CUST0157,2021-11-26,Clothing,Dress,99.01,4,5,Quality could be better.,False
+ORD00876,CUST0081,2021-05-02,Electronics,Tablet,153.84,3,3,Quality could be better.,False
+ORD00877,CUST0007,2020-02-01,Electronics,Laptop,84.47,1,2,"Poor packaging, arrived damaged.",False
+ORD00878,CUST0119,2021-11-26,Books,Comics,106.71,4,4,Would buy again.,False
+ORD00879,CUST0144,2020-03-23,Electronics,Mobile,99.51,3,5,Excellent value for money!,False
+ORD00880,CUST0193,2020-04-28,Electronics,Laptop,135.65,4,3,"Poor packaging, arrived damaged.",False
+ORD00881,CUST0099,2020-02-09,Home,Bedding,175.81,1,4,Excellent value for money!,False
+ORD00882,CUST0102,2020-05-23,Books,Non-Fiction,84.07,3,1,Not what I expected.,False
+ORD00883,CUST0100,2021-12-29,Books,Education,85.32,1,5,Quality could be better.,False
+ORD00884,CUST0151,2021-11-27,Electronics,Camera,131.32,3,5,Would buy again.,False
+ORD00885,CUST0104,2021-12-02,Home,Bedding,120.46,2,5,"Great product, really enjoyed it.",False
+ORD00886,CUST0047,2020-11-18,Clothing,Jeans,155.4,3,,Excellent value for money!,False
+ORD00887,CUST0080,2020-04-18,Electronics,Tablet,117.52,4,5,,False
+ORD00888,CUST0096,2021-06-16,Home,Bedding,89.22,3,,,False
+ORD00889,CUST0193,2020-03-27,Home,Furniture,117.72,1,,,True
+ORD00890,CUST0053,2020-10-09,Home,Kitchen,133.26,1,5,"Great product, really enjoyed it.",False
+ORD00891,CUST0028,2020-02-06,Clothing,Shoes,1246.1,3,4,Quality could be better.,False
+ORD00892,CUST0069,2021-05-21,Home,Decor,115.22,4,1,Excellent value for money!,True
+ORD00893,CUST0195,2021-11-04,Clothing,Shoes,132.0,2,3,,False
+ORD00894,CUST0125,2020-08-07,Books,Education,135.08,4,4,Quality could be better.,True
+ORD00895,CUST0155,2021-03-05,Books,Education,141.46,2,3,"Great product, really enjoyed it.",False
+ORD00896,CUST0138,2021-09-29,Electronics,Camera,119.46,1,3,,False
+ORD00897,CUST0133,2020-01-25,Home,Decor,94.99,4,,Would buy again.,False
+ORD00898,CUST0103,2020-08-31,Clothing,Shirt,104.4,2,5,"Great product, really enjoyed it.",True
+ORD00899,CUST0157,2021-03-07,Electronics,Tablet,136.2,3,5,"Great product, really enjoyed it.",False
+ORD00900,CUST0197,2020-11-14,Electronics,Camera,75.49,1,3,Would buy again.,False
+ORD00901,CUST0036,2020-01-23,Electronics,Camera,111.06,3,1,Not what I expected.,False
+ORD00902,CUST0035,2021-10-12,Clothing,Dress,88.2,1,1,Quality could be better.,False
+ORD00903,CUST0141,2021-02-04,Electronics,Mobile,100.86,4,3,Quality could be better.,False
+ORD00904,CUST0078,2021-03-20,Clothing,Shirt,138.35,4,1,Would buy again.,True
+ORD00905,CUST0110,2020-07-20,Clothing,Dress,105.73,1,1,"Great product, really enjoyed it.",False
+ORD00906,CUST0141,2021-08-13,Electronics,Mobile,101.39,1,,,True
+ORD00907,CUST0155,2021-01-04,Clothing,Shoes,59.2,1,5,Excellent value for money!,False
+ORD00908,CUST0074,2020-12-22,Electronics,Laptop,122.39,4,3,,False
+ORD00909,CUST0044,2021-05-22,Electronics,Laptop,119.36,2,1,Not what I expected.,False
+ORD00910,CUST0174,2021-04-01,Electronics,Tablet,164.9,3,4,,False
+ORD00911,CUST0006,2021-10-24,Home,Kitchen,90.77,3,1,,False
+ORD00912,CUST0080,2021-03-24,Books,Comics,106.57,4,,,False
+ORD00913,CUST0052,2020-07-23,Books,Comics,107.48,3,3,Quality could be better.,True
+ORD00914,CUST0040,2021-08-16,Clothing,Shoes,147.32,1,3,Would buy again.,False
+ORD00915,CUST0169,2021-10-31,Home,Decor,97.14,2,3,Excellent value for money!,False
+ORD00916,CUST0077,2020-02-11,Clothing,Shirt,108.37,3,1,Would buy again.,False
+ORD00917,CUST0100,2020-09-16,Clothing,Dress,118.24,2,4,Quality could be better.,False
+ORD00918,CUST0038,2020-05-11,Clothing,Shoes,105.6,1,5,Would buy again.,False
+ORD00919,CUST0155,2020-09-09,Books,Fiction,86.61,3,4,"Poor packaging, arrived damaged.",False
+ORD00920,CUST0145,2021-02-17,Electronics,Tablet,105.82,4,1,Not what I expected.,False
+ORD00921,CUST0126,2021-02-14,Home,Decor,132.21,2,4,Would buy again.,False
+ORD00922,CUST0021,2021-07-16,Clothing,Shoes,69.2,1,4,"Great product, really enjoyed it.",False
+ORD00923,CUST0173,2021-08-21,Clothing,Shirt,103.99,2,5,,False
+ORD00924,CUST0081,2020-01-29,Books,Non-Fiction,79.0,3,3,"Poor packaging, arrived damaged.",False
+ORD00925,CUST0148,2020-01-20,Home,Bedding,135.85,3,3,Not what I expected.,False
+ORD00926,CUST0128,2021-12-08,Books,Fiction,54.3,4,4,,False
+ORD00927,CUST0061,2021-10-18,Clothing,Shoes,83.23,1,4,,False
+ORD00928,CUST0042,2021-01-22,Clothing,Shirt,111.32,1,3,"Great product, really enjoyed it.",False
+ORD00929,CUST0105,2021-09-26,Electronics,Tablet,146.97,4,3,,False
+ORD00930,CUST0098,2021-12-17,Books,Comics,98.03,4,3,Would buy again.,False
+ORD00931,CUST0025,2020-09-28,Books,Comics,83.34,1,5,Excellent value for money!,False
+ORD00932,CUST0169,2020-08-30,Home,Kitchen,156.43,2,3,"Poor packaging, arrived damaged.",True
+ORD00933,CUST0104,2021-02-25,Electronics,Tablet,56.56,2,,Not what I expected.,False
+ORD00934,CUST0179,2020-01-14,Home,Bedding,34.04,4,4,Would buy again.,False
+ORD00935,CUST0080,2021-09-05,Home,Furniture,113.2,2,,,False
+ORD00936,CUST0141,2020-09-07,Books,Comics,84.94,1,5,"Poor packaging, arrived damaged.",False
+ORD00937,CUST0012,2021-12-09,Electronics,Camera,693.6,3,3,Excellent value for money!,False
+ORD00938,CUST0059,2020-05-21,Books,Fiction,121.25,3,5,Would buy again.,False
+ORD00939,CUST0040,2021-02-01,Electronics,Laptop,107.31,2,1,"Poor packaging, arrived damaged.",True
+ORD00940,CUST0045,2020-12-10,Books,Non-Fiction,83.08,4,,,False
+ORD00941,CUST0144,2021-09-02,Books,Fiction,61.59,4,4,Quality could be better.,False
+ORD00942,CUST0012,2020-11-10,Electronics,Tablet,126.17,4,1,"Great product, really enjoyed it.",False
+ORD00943,CUST0197,2020-08-07,Home,Decor,119.51,4,4,"Poor packaging, arrived damaged.",False
+ORD00944,CUST0189,2020-11-16,Clothing,Dress,97.02,4,,Quality could be better.,False
+ORD00945,CUST0173,2021-03-28,Home,Bedding,155.4,2,1,"Poor packaging, arrived damaged.",False
+ORD00946,CUST0144,2020-08-07,Books,Fiction,67.9,3,4,"Poor packaging, arrived damaged.",False
+ORD00947,CUST0088,2020-07-14,Home,Kitchen,54.23,3,5,Not what I expected.,False
+ORD00948,CUST0023,2021-08-04,Home,Furniture,79.24,2,5,"Great product, really enjoyed it.",True
+ORD00949,CUST0082,2021-06-07,Books,Comics,98.63,4,3,Excellent value for money!,False
+ORD00950,CUST0070,2020-05-21,Books,Non-Fiction,107.3,2,2,Not what I expected.,False
+ORD00951,CUST0181,2021-10-20,Electronics,Camera,92.76,3,1,,False
+ORD00952,CUST0165,2020-01-22,Clothing,Dress,110.56,1,4,"Great product, really enjoyed it.",True
+ORD00953,CUST0127,2020-07-01,Electronics,Tablet,62.45,2,3,,False
+ORD00954,CUST0063,2020-05-15,Books,Non-Fiction,143.31,4,,Would buy again.,False
+ORD00955,CUST0172,2020-04-23,Books,Comics,97.54,3,1,Not what I expected.,False
+ORD00956,CUST0030,2021-08-16,Clothing,Dress,133.52,3,4,"Poor packaging, arrived damaged.",False
+ORD00957,CUST0019,2021-08-18,Home,Kitchen,110.28,3,1,Excellent value for money!,False
+ORD00958,CUST0058,2020-03-16,Electronics,Mobile,113.7,3,2,Not what I expected.,False
+ORD00959,CUST0079,2020-07-12,Books,Comics,117.09,4,3,,False
+ORD00960,CUST0054,2020-10-24,Electronics,Laptop,113.43,1,3,Would buy again.,False
+ORD00961,CUST0138,2021-08-23,Home,Decor,119.28,3,4,Would buy again.,False
+ORD00962,CUST0136,2021-10-18,Electronics,Laptop,139.87,2,,,False
+ORD00963,CUST0152,2021-11-19,Electronics,Laptop,105.9,1,4,"Great product, really enjoyed it.",False
+ORD00964,CUST0024,2021-05-25,Electronics,Tablet,121.27,3,,Quality could be better.,False
+ORD00965,CUST0164,2021-08-26,Electronics,Laptop,97.31,1,5,"Poor packaging, arrived damaged.",False
+ORD00966,CUST0145,2021-03-27,Electronics,Mobile,143.2,2,4,Not what I expected.,False
+ORD00967,CUST0194,2020-01-26,Home,Decor,79.71,3,5,,False
+ORD00968,CUST0075,2020-01-09,Clothing,Shirt,154.03,2,4,Not what I expected.,False
+ORD00969,CUST0055,2021-04-21,Clothing,Shirt,98.8,4,1,Excellent value for money!,False
+ORD00970,CUST0105,2021-06-09,Books,Education,57.08,3,5,"Great product, really enjoyed it.",True
+ORD00971,CUST0192,2020-11-28,Books,Fiction,103.84,3,1,Not what I expected.,False
+ORD00972,CUST0153,2020-05-20,Clothing,Shirt,79.57,3,4,Excellent value for money!,False
+ORD00973,CUST0129,2021-04-11,Electronics,Laptop,125.22,3,5,"Poor packaging, arrived damaged.",False
+ORD00974,CUST0047,2020-10-05,Books,Non-Fiction,80.42,4,1,"Great product, really enjoyed it.",True
+ORD00975,CUST0193,2020-09-01,Books,Non-Fiction,86.61,3,2,,False
+ORD00976,CUST0124,2021-01-18,Electronics,Camera,43.31,1,,Excellent value for money!,False
+ORD00977,CUST0147,2021-10-25,Clothing,Jeans,86.43,3,4,"Poor packaging, arrived damaged.",False
+ORD00978,CUST0112,2021-03-27,Electronics,Laptop,27.28,4,2,Not what I expected.,False
+ORD00979,CUST0129,2020-03-10,Home,Bedding,52.48,3,4,Not what I expected.,False
+ORD00980,CUST0021,2021-01-07,Electronics,Tablet,122.81,1,4,Would buy again.,False
+ORD00981,CUST0006,2020-03-09,Books,Fiction,123.57,4,4,Excellent value for money!,False
+ORD00982,CUST0050,2020-01-24,Clothing,Jeans,112.76,4,,Would buy again.,False
+ORD00983,CUST0147,2021-12-22,Home,Furniture,70.99,1,4,,False
+ORD00984,CUST0102,2020-04-13,Home,Furniture,98.57,1,3,"Great product, really enjoyed it.",False
+ORD00985,CUST0053,2020-09-05,Clothing,Dress,99.89,1,5,,True
+ORD00986,CUST0056,2021-04-23,Electronics,Mobile,65.25,1,5,Quality could be better.,False
+ORD00987,CUST0135,2020-10-23,Electronics,Mobile,145.1,1,1,"Great product, really enjoyed it.",False
+ORD00988,CUST0162,2020-01-10,Electronics,Laptop,126.32,4,2,Would buy again.,False
+ORD00989,CUST0167,2020-11-09,Electronics,Laptop,93.37,4,2,"Poor packaging, arrived damaged.",False
+ORD00990,CUST0083,2021-09-01,Books,Non-Fiction,100.81,3,4,,False
+ORD00991,CUST0062,2020-01-04,Home,Bedding,106.25,3,4,"Great product, really enjoyed it.",False
+ORD00992,CUST0157,2020-01-30,Home,Decor,38.75,2,4,,True
+ORD00993,CUST0106,2020-06-09,Books,Fiction,92.58,3,,,False
+ORD00994,CUST0137,2020-09-04,Clothing,Dress,79.54,3,5,"Poor packaging, arrived damaged.",False
+ORD00995,CUST0194,2021-09-15,Clothing,Shoes,69.95,1,1,,False
+ORD00996,CUST0003,2020-02-24,Electronics,Camera,91.57,1,3,,False
+ORD00997,CUST0196,2020-10-02,Clothing,Shoes,153.93,3,3,,True
+ORD00998,CUST0040,2021-12-16,Books,Education,119.23,2,3,,True
+ORD00999,CUST0033,2020-08-28,Electronics,Mobile,82.86,1,4,"Poor packaging, arrived damaged.",False
+ORD01000,CUST0166,2020-11-18,Electronics,Laptop,117.18,3,5,Quality could be better.,False
+ORD00522,CUST0134,2020-03-28,Electronics,Camera,116.3,3,,Not what I expected.,False
+ORD00738,CUST0010,2021-12-31,Home,Furniture,129.48,4,3,,True
+ORD00741,CUST0133,2021-05-24,Books,Fiction,44.77,4,,,False
+ORD00661,CUST0159,2020-06-24,Clothing,Dress,82.79,1,,Not what I expected.,False
+ORD00412,CUST0172,2020-10-11,Clothing,Jeans,66.26,1,3,"Great product, really enjoyed it.",False
+ORD00679,CUST0149,2020-03-25,Clothing,Jeans,128.07,2,4,"Great product, really enjoyed it.",True
+ORD00627,CUST0100,2020-01-18,Home,Kitchen,703.1,2,2,Excellent value for money!,False
+ORD00514,CUST0040,2020-07-16,Home,Decor,72.77,1,5,Quality could be better.,False
+ORD00860,CUST0064,2021-01-31,Home,Kitchen,118.99,2,5,"Poor packaging, arrived damaged.",False
+ORD00137,CUST0115,2020-03-22,Clothing,Jeans,76.5,4,5,Not what I expected.,False
+ORD00812,CUST0147,2020-04-29,Electronics,Tablet,86.81,2,4,,False
+ORD00077,CUST0180,2021-06-02,Clothing,Jeans,102.61,2,2,,False
+ORD00637,CUST0038,2020-10-14,Home,Furniture,124.7,2,4,Would buy again.,True
+ORD00974,CUST0047,2020-10-05,Books,Non-Fiction,80.42,4,1,"Great product, really enjoyed it.",True
+ORD00939,CUST0040,2021-02-01,Electronics,Laptop,107.31,2,1,"Poor packaging, arrived damaged.",True
+ORD00900,CUST0197,2020-11-14,Electronics,Camera,75.49,1,3,Would buy again.,False
+ORD00281,CUST0109,2020-05-20,Books,Comics,103.41,3,2,Excellent value for money!,False
+ORD00884,CUST0151,2021-11-27,Electronics,Camera,131.32,3,5,Would buy again.,False
+ORD00762,CUST0001,2021-02-25,Home,Decor,103.66,4,2,"Poor packaging, arrived damaged.",False
+ORD00320,CUST0191,2021-08-05,Books,Comics,96.1,4,,Excellent value for money!,False

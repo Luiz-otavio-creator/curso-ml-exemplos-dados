@@ -1,0 +1,5 @@
+{"timestamp": "2025-05-01T08:00:00", "level": "INFO", "user": "alice", "action": "login"}
+{"timestamp": "2025-05-01T08:05:27", "level": "WARN", "user": "bob", "action": "timeout"}
+{"timestamp": "2025-05-01T08:10:45", "level": "INFO", "user": "charlie", "action": "view"}
+{"timestamp": "2025-05-01T08:15:12", "level": "ERROR", "user": "alice", "action": "failed_save"}
+{"timestamp": "2025-05-01T08:20:30", "level": "INFO", "user": "david", "action": "logout"}

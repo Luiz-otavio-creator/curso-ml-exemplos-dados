@@ -1,0 +1,68 @@
+[
+  {
+    "pedido_id": 1001,
+    "cliente": {
+      "nome": "Ana",
+      "endereco": {
+        "cidade": "Porto",
+        "pais": "Portugal"
+      }
+    },
+    "itens": [
+      {
+        "produto": "Caneta",
+        "qtd": 3,
+        "preco": 1.5
+      },
+      {
+        "produto": "Caderno",
+        "qtd": 1,
+        "preco": 7.25
+      }
+    ]
+  },
+  {
+    "pedido_id": 1002,
+    "cliente": {
+      "nome": "Bruno",
+      "endereco": {
+        "cidade": "Lisboa",
+        "pais": "Portugal"
+      }
+    },
+    "itens": [
+      {
+        "produto": "Mochila",
+        "qtd": 1,
+        "preco": 120.0
+      },
+      {
+        "produto": "Estojo",
+        "qtd": 2,
+        "preco": 15.0
+      }
+    ]
+  },
+  {
+    "pedido_id": 1003,
+    "cliente": {
+      "nome": "Carla",
+      "endereco": {
+        "cidade": "Coimbra",
+        "pais": "Portugal"
+      }
+    },
+    "itens": [
+      {
+        "produto": "Agenda",
+        "qtd": 1,
+        "preco": 25.5
+      },
+      {
+        "produto": "Marcador",
+        "qtd": 5,
+        "preco": 2.3
+      }
+    ]
+  }
+]
